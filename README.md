@@ -75,3 +75,10 @@ Contacts
 ------------------
 - [Hamid Vaezi Joze](https://www.microsoft.com/en-us/research/people/hava/)
 - [Oscar Koller](https://www.microsoft.com/en-us/research/people/oskoller/)
+
+
+
+Additional
+- [kaggle WLASL Dataset - Raw](https://www.kaggle.com/risangbaskoro/wlasl-dataset)
+
+- [kaggle WLASL Dataset](https://www.kaggle.com/risangbaskoro/wlasl-processed)
