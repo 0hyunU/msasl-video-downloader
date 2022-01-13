@@ -82,3 +82,6 @@ Additional
 - [kaggle WLASL Dataset - Raw](https://www.kaggle.com/risangbaskoro/wlasl-dataset)
 
 - [kaggle WLASL Dataset](https://www.kaggle.com/risangbaskoro/wlasl-processed)
+
+- [WLASL Dataset](https://dxli94.github.io/WLASL/)
+- [WLASL Dataset github](https://github.com/dxli94/WLASL#file-description)
