@@ -4,4 +4,7 @@ __pycache__
 msasl_datasets
 temp
 backup
-**/start_kit
+**/raw_videos
+**/raw_videos_mp4
+**/videos
+**/train_test
