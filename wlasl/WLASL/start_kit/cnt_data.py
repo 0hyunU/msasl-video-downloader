@@ -7,10 +7,14 @@ for a,b,c in os.walk("./videos"):
 
 print([i for i in k if i>10])
 print(n)
-print(sum(k))
+print("class #:",len(k))
+print("video #:",sum(k))
+
 
 for a,b,c in os.walk("./raw_videos"):
-    print(len(c))
+    pass
+    # print(len(c))
     
 for a,b,c in os.walk("./raw_videos_mp4"):
-    print(len(c))
+    pass
+    # print(len(c))
