@@ -1,16 +1,38 @@
 import os
 import time
 import json
-from tkinter import image_names
-from typing import Iterable
-from xmlrpc.client import Boolean
+
 import numpy as np
 import mediapipe as mp
 import cv2
+import imutils
 import pickle
 from keypoint import HolisticKeypoint as H
+class Time():
+    def __init__(self) -> None:
+        self.start = time.time()
+        self.record = [self.start]
+    
+    def update(self, print_step = True):
+        self.record.append(time.time())
+        if print_step: print(self.record[-1] - self.record[-2])
 
-def gen_keypoint(abs_video_path:str, image_aug=False, show_image=False) -> H:
+        return self.record[-1] - self.record[-2]
+
+    def running(self):
+        return self.record[-1] - self.record[0]
+
+
+def image_aug(image,aug_type,angle):
+    if aug_type == "flip":
+        image = cv2.flip(image,1)
+    elif aug_type == 'rotate':
+        image = imutils.rotate(image, angle)
+    else: 
+        return image
+    return image
+
+def gen_keypoint(abs_video_path:str, is_aug=False,aug_type=None,rotate_angle=0, show_image=False) -> H:
     
     """ load video
         extract keypoint data from video
@@ -41,14 +63,15 @@ def gen_keypoint(abs_video_path:str, image_aug=False, show_image=False) -> H:
             image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             
             # image augmentation flip
-            if image_aug: image = cv2.flip(image,1)
+            if is_aug: 
+                image = image_aug(image,aug_type=aug_type, angle=rotate_angle)
             
             # Make Detections
             results = holistic.process(image)
             image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
 
             # full body visible
-            holistic_body_visible = ((results.left_hand_landmarks or results.right_hand_landmarks ) 
+            holistic_body_visible = ((results.left_hand_landmarks or results.right_hand_landmarks) 
                                         and results.pose_landmarks and results.face_landmarks)
             #print(type(results.left_hand_landmarks), type(results.right_hand_landmarks),type(results.pose_landmarks), type(results.face_landmarks))
             if holistic_body_visible:
@@ -63,14 +86,15 @@ def gen_keypoint(abs_video_path:str, image_aug=False, show_image=False) -> H:
                 keypoint_data.right_hand = concat_keypoint_data(results.right_hand_landmarks, keypoint_data.right_hand)
 
             # Drawing landmarks
-            draw_landmark(image,mp_drawing,results)
+            # draw_landmark(image,mp_drawing,results)
 
             # show image with landmarks
-            if show_image: cv2.imshow('Raw Webcam Feed', image)
-            #time.sleep(1)
-            if cv2.waitKey(10) & 0xFF == ord('q'):
-                break
-                
+            if show_image: 
+                cv2.imshow('Raw Webcam Feed', image)
+                #time.sleep(1)
+                if cv2.waitKey(10) & 0xFF == ord('q'):
+                    break
+      
         keypoint_data.avail_frame_len = avail_frame
         keypoint_data = add_missing_data(keypoint_data)
         assert keypoint_data.get_face_data_len == keypoint_data.avail_frame_len
@@ -81,13 +105,18 @@ def gen_keypoint(abs_video_path:str, image_aug=False, show_image=False) -> H:
     return keypoint_data
 
 def video2vec(abs_video_path):
-    
-    
 
     #video preprocessing
-    AUG = True #flip augmentation
-    keypoint_data = gen_keypoint(abs_video_path, image_aug=AUG)
-    save_pickle(abs_video_path, keypoint_data, image_aug=AUG, aug_type="aug_flip")
+    AUG = False #flip augmentation
+    # aug_type = "flip"
+    # keypoint_data = gen_keypoint(abs_video_path,is_aug=AUG,aug_type=aug_type)
+    # save_pickle(abs_video_path, keypoint_data,is_aug=AUG, aug_type=aug_type)
+    tilt_range = [-20,-10,10,20] if AUG else [0]
+    aug_type = 'rotate'
+    
+    for angle in tilt_range:
+        keypoint_data = gen_keypoint(abs_video_path,is_aug=AUG,aug_type=aug_type,rotate_angle=angle)
+        #save_pickle(abs_video_path, keypoint_data,is_aug=AUG, aug_type=aug_type + str(angle))
 
     print(f"frame satisfying the condition: {keypoint_data.avail_frame_len}")
     #print(f"{len(keypoint_data.pose)},{len(keypoint_data.face)},{len(keypoint_data.right_hand)},{len(keypoint_data.left_hand)}")
@@ -144,9 +173,9 @@ def add_missing_data(key_point):
 
 
 #save KeyPoint object to pickle
-def save_pickle(abs_video_path, keypoint_data,aug_type:str, image_aug=False):
+def save_pickle(abs_video_path, keypoint_data,aug_type:str, is_aug=False):
     dir_name = os.path.dirname(abs_video_path)
-    output_name = keypoint_data.file_name if not image_aug else keypoint_data.file_name + f"_{aug_type}"
+    output_name = keypoint_data.file_name if not is_aug else keypoint_data.file_name + f"_{aug_type}"
     with open(os.path.join(dir_name,f"{output_name}.pickle"),'wb') as f:
         pickle.dump(keypoint_data,f)
 
@@ -180,6 +209,7 @@ if __name__ == "__main__":
     # video2vec(os.path.abspath("./train_test/who/63237.mp4"))
 
     # pass
+    t = Time()
 
     for j in cls_list:
         data_abs_path = os.path.abspath(f"./train_test/{j}")
@@ -189,5 +219,6 @@ if __name__ == "__main__":
         for i in os.listdir(data_abs_path):
             if ".mp4" in i[-4:]:
                 video2vec(os.path.join(data_abs_path,i))
-    
+                t.update()
+    print("--- %s seconds ---" % (time.time() - t.running))
 

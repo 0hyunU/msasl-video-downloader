@@ -1,28 +1,16 @@
 # TensorFlow and tf.keras
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
-
+import matplotlib.pyplot as plt
+from model import *
 from load_data import try_PCA, load_data
-
-def dnn_model_after_pca():
-    model = tf.keras.Sequential([
-    tf.keras.layers.Dense(19, activation='relu', input_shape = (19,)),
-    tf.keras.layers.Dense(32, activation='relu'),
-    tf.keras.layers.Dense(64, activation='relu'),
-    tf.keras.layers.Dense(128, activation='relu'),
-    tf.keras.layers.Dense(30, activation = 'softmax')
-    ])
-
-    model.compile(loss="sparse_categorical_crossentropy",
-              optimizer="adam",
-              metrics=["accuracy"])
-    return model
+from sklearn.preprocessing import LabelBinarizer
 
 def train():
-    from sklearn.preprocessing import LabelBinarizer
     encoder = LabelBinarizer()
 
     x,y = try_PCA(0.9)
+    # x,y = load_data()
 
     transfomed_label = encoder.fit_transform(y)
     y = transfomed_label.argmax(1)
@@ -34,16 +22,18 @@ def train():
     print(tf.test.is_gpu_available())
     print(model.summary())
     
-    history = model.fit(train_x, train_y, epochs=100)
+    result = model.fit(train_x, train_y, validation_split=0.2,epochs=100 )
+    return result
     
+
 
 
 if __name__ == "__main__":
     
     # x,y = load_data()
     # print(len(y))
-    train()
-
+    result = train()
+    draw_model_fitting_result(result,True, "dnn_model_save.png")
     #print(encoder.classes_)
     # a = tf.keras.utils.to_categorical(y, num_classes=30)
     # print(a)    

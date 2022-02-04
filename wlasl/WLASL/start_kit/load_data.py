@@ -1,7 +1,9 @@
 import os
 import glob
 import pickle
+from cv2 import split
 import numpy as np
+import random
 from sklearn.decomposition import PCA
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
@@ -29,22 +31,65 @@ def padding_array(data: np.ndarray):
         
 
 
-def load_data():
+def load_all_data():
     preprocessed_data = list()
     y_val = list()
+    a,b = split_train_test()
     for i in glob.glob("./train_test/**/*.pickle",recursive=True):
+        
         # load preprocessed data structure
-         keypoint= pickle.load(open(i, 'rb'))
-         raw_data = keypoint.get_tensor() #get 3D array
-         preprocessed_data.append(padding_array(raw_data))
-         y_val.append(keypoint.action_class)
+        keypoint= pickle.load(open(i, 'rb'))
+        raw_data = keypoint.get_tensor() #get 3D array
+        preprocessed_data.append(padding_array(raw_data))
+        y_val.append(keypoint.action_class)
     
     assert len(preprocessed_data) == len(y_val)
 
-    return np.array(preprocessed_data), y_val   
+    return np.array(preprocessed_data), y_val
 
-def try_PCA(n_components=3):
-    x,y = load_data()
+
+def load_train_test():
+    train, test = split_train_test()
+    train_x, train_y , test_x,test_y = list(), list(), list(), list()
+
+    for i in train:
+        # load preprocessed data structure
+        keypoint= pickle.load(open(i, 'rb'))
+        raw_data = keypoint.get_tensor() #get 3D array
+        train_x.append(padding_array(raw_data))
+        train_y.append(keypoint.action_class)
+
+    for i in test:
+        # load preprocessed data structure
+        keypoint= pickle.load(open(i, 'rb'))
+        raw_data = keypoint.get_tensor() #get 3D array
+        test_x.append(padding_array(raw_data))
+        test_y.append(keypoint.action_class)
+
+    return np.array(train_x), np.array(test_x), train_y ,test_y
+
+
+def split_train_test():
+    preprocessed_data = list()
+    y_val = list()
+    test,train = list(),list()
+    for i in glob.glob("./train_test/**/*.mp4",recursive=True):
+        rand_split = random.randint(1,10)
+        if rand_split >= 9:
+            [test.append(j) for j in glob.glob(i+"*.pickle")]
+        else:
+            [train.append(j) for j in glob.glob(i+"*.pickle")]
+
+    # preprocessed_data.append(i)
+    # random.shuffle(preprocessed_data)
+    # print(preprocessed_data)
+    # split_point = int(len(preprocessed_data)*0.8)
+    #train, test = preprocessed_data[:split_point], preprocessed_data[split_point:]
+    return train, test
+    
+
+def try_PCA(n_components=3, saved_pca="pca_obj.pickle"):
+    x,y = load_all_data()
     # for i,v in enumerate(x):
     #     x[i] = x[i].flatten()
     
@@ -52,7 +97,7 @@ def try_PCA(n_components=3):
     
     pca = PCA(n_components=n_components) # 주성분을 몇개로 할지 결정
     # printcipalComponents = pca.fit_transform(x)
-    saved_pca = "pca_obj.pickle"
+    saved_pca = saved_pca
     if os.path.isfile(saved_pca):
         printcipalComponents = pickle.load(open(saved_pca,'rb'))
         print(printcipalComponents.shape)
@@ -126,15 +171,20 @@ def svm_classifier(train_x, test_x, train_y, test_y):
 
 if __name__ == "__main__":
     #x,y = load_data()
-    x,y = try_PCA(0.9)
-    #draw_plot(x,y)
-    #draw_tsne(x,y)
-    y = np.array(y)
-    (train_x, test_x, train_y, test_y) = train_test_split(
-	                                                    x,y, test_size=0.2, random_state=42)
-    knn_acc = knn_classifier(train_x, test_x, train_y, test_y)
-    svm_acc = svm_classifier(train_x, test_x, train_y, test_y)
+    # x,y = try_PCA(0.9)
+    # #draw_plot(x,y)
+    # #draw_tsne(x,y)
+    # y = np.array(y)
+    # (train_x, test_x, train_y, test_y) = train_test_split(
+	#                                                     x,y, test_size=0.2, random_state=42)
+    # knn_acc = knn_classifier(train_x, test_x, train_y, test_y)
+    # svm_acc = svm_classifier(train_x, test_x, train_y, test_y)
 
-    plt.plot(knn_acc,svm_acc)
+    # plt.plot(knn_acc,svm_acc)
+    # a,b = split_train_test()
+    # print(len(a),len(b))
+    x,x_,y,y_ = load_train_test()
+    print(len(set(y)),len(set(y_)))
+    print(y)
+    print(y_)
 
- 
