@@ -8,6 +8,8 @@ import os
 import time
 import json
 
+VERBOSE_SHAPE_DIMENSION = False
+
 class VidAug():
     def __init__(self, vid_path, save =False) -> None:
         self.vid_path = vid_path
@@ -65,10 +67,8 @@ class VidAug():
         # should not be zero
         crop_x = int(cols * rate_x / 2 + 1)
         crop_y = int(rows * rate_y / 2 +1)
-        print("crop length",crop_x,crop_y)
 
         cropped_arr = vid_arr[:,crop_y:-crop_y,crop_x:-crop_x,:]
-
         crop_rows,crop_cols = cropped_arr.shape[1:3]
 
         ## check crop assert
@@ -79,7 +79,9 @@ class VidAug():
             print(e)
             print(traceback.format_exc())
 
-        print("cropped shape:",cropped_arr.shape)
+        if VERBOSE_SHAPE_DIMENSION:
+            print("origin shape", vid_arr.shape)
+            print("cropped shape:",cropped_arr.shape)
         return cropped_arr   
     
     def flip_vidArr(self,vid_arr):
@@ -123,18 +125,17 @@ class VidAug():
 
     def aug_vid_randomly(self):
 
-        a = [self.crop_vidArr,self.stretch_vidArr,self.hshift_vidArr,
+        aug_func_list = [self.crop_vidArr,self.stretch_vidArr,self.hshift_vidArr,
              self.vshift_vidArr,self.rotate_vidArr,self.flip_vidArr]
-        random.shuffle(a); 
-        print(a)
+        random.shuffle(aug_func_list)
+        print("shuffled aug func: ",aug_func_list)
 
         st_time = time.time()
         vid_arr = self.vid_arr
-        for i in a:
+        for i in aug_func_list:
             if random.randint(0,10)>=5:
-                #print(i)
                 vid_arr = i(vid_arr) 
-        print(time.time()-st_time)
+        print("aug processing time: ",time.time()-st_time)
 
         # image cols & rows length should be even??
         # rows,cols = vid_arr.shape[1:3]
