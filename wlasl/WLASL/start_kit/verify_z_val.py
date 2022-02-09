@@ -96,8 +96,21 @@ def main():
         plt.draw()
         
         cv2.waitKey(1)
-        
 
+def plot_2D_keypoint_every_move(keypoints):
+    import matplotlib.pyplot as plt
+
+    figure ,ax = plt.subplots(figsize=(8,6))
+    axsca = ax.scatter(keypoints[0,:,0],keypoints[0,:,1])
+    ax.set_xlim([-2,2])
+    ax.set_ylim([-2,2])
+    ax.invert_yaxis()
+
+    for i in keypoints:
+        #print(i[:,:1].shape)
+        axsca.set_offsets(i[:,:2])
+        figure.canvas.draw_idle()
+        plt.pause(0.001)
 
 if __name__ == "__main__":
     main()
