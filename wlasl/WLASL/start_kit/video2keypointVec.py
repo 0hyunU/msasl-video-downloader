@@ -86,7 +86,7 @@ def gen_keypoint(abs_video_path:str, is_aug=False,aug_type=None,rotate_angle=0, 
                 keypoint_data.right_hand = concat_keypoint_data(results.right_hand_landmarks, keypoint_data.right_hand)
 
             # Drawing landmarks
-            # draw_landmark(image,mp_drawing,results)
+            draw_landmark(image,mp_drawing,results)
 
             # show image with landmarks
             if show_image: 
@@ -191,16 +191,18 @@ def draw_landmark(image,mp_drawing, results):
 
 # stack keypoint data consequently
 def concat_keypoint_data(landmark: object, base:np.ndarray) -> np.ndarray:
-    try:
-        tmp = np.array([[i.x,i.y,i.z] for i in landmark.landmark])
-        tmp = tmp[np.newaxis,:,:] # add dim at axis = 0
-        base = np.vstack([base,tmp]) if base.shape[0] !=0 else tmp
     
-    except AttributeError as e: #interpolate(보간) data disappeared for a while
-        tmp = np.vstack([base,base[-1][np.newaxis,:,:]]) if base.shape[0] != 0 else base
-        #print(temp.shape)
-        return tmp
-    return base
+    if landmark:
+        tmp = np.array([[i.x,i.y] for i in landmark.landmark])
+        return np.vstack([base,np.expand_dims(tmp,0)])
+    else:
+        """
+        if landmark.landmark is None
+        when keypoint disappear for a while
+        interpolate(보간) data with previous keypoint
+        """
+        return np.vstack([base,np.expand_dims(base[-1],0)])
+        
 
 if __name__ == "__main__":
     #video2vec(0)
