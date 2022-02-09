@@ -1,15 +1,10 @@
 import os
-import time
 import json
-import glob
-import sys
 import random
 import traceback
-from cv2 import resize
-from vidaug import vidaug
+from vidaug import VidAug
 
 random.seed(random.random())
-from matplotlib.pyplot import show
 
 import numpy as np
 import cv2
@@ -90,7 +85,7 @@ if __name__ =="__main__":
             print(i['gloss'])
             test_p = i['files'][0]
             print(test_p)
-            v = vidaug.VidAug(test_p)
+            v = VidAug(test_p)
             v.aug_vid_randomly()
 
     except Exception as e:

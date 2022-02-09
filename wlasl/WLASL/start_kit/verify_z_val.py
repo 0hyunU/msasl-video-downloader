@@ -28,7 +28,6 @@ def main():
     
     plt.ion()
 
-     
     fig=plt.figure(figsize=(10,10))
     ax = fig.add_subplot(111, projection='3d')
     sc = ax.scatter(X[:, 0], X[:, 1], X[:, 2])
@@ -44,6 +43,7 @@ def main():
     while True:
         try:
             success, img = cap.read()
+            if not success: break
             imgRGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
             results = pose.process(imgRGB)
             mpDraw = mp.solutions.drawing_utils
@@ -52,36 +52,19 @@ def main():
             if results.pose_landmarks:
                 mpDraw.draw_landmarks(img, results.pose_landmarks, mpPose.POSE_CONNECTIONS)
                 pose_landmark = list()
-                x = list()
-                y=list()
-                z = list()
+                x = y = z = list()
                 for id, lm in enumerate(results.pose_landmarks.landmark):
-                    h, w, c = img.shape
-                    #print(id, lm)
-                    #pose_landmark.append(dict(lm))
-                    #print("x_update")
                     if (id> 10) and (id < 23):
                         x.append(lm.x)
                         y.append(lm.y)
                         z.append(lm.z)
-                    #cx, cy = int(lm.x * w), int(lm.y * h)
-                    #cv2.circle(img, (cx, cy), 5, (255, 0, 0), cv2.FILLED)
                 X = np.c_[x,y,z]
-                #print(X.shape)
-            else:
-                pass
+
             landmark_dict[frame] = pose_landmark
 
         except Exception as e:
             print(e)
             pass
-            #print(landmark_dict)
-            # with open('./noodle.json','w') as f:
-            #     json.dump(landmark_dict,f)
-            #print(e)
-            #print(results.pose_landmarks)
-            #print(frame)
-           
 
         cTime = time.time()
         fps = 1 / (cTime - pTime)
@@ -91,26 +74,10 @@ def main():
         cv2.imshow("Image", img)
         plt.pause(0.1)
         sc._offsets3d = (X[:, 0], X[:, 1], X[:, 2])
-        # for i in range(X.shape[0]):
-        #     ax.text(X[i,0], X[i,1], X[i,2], str(i), size=10)
+
         plt.draw()
         
         cv2.waitKey(1)
-
-def plot_2D_keypoint_every_move(keypoints):
-    import matplotlib.pyplot as plt
-
-    figure ,ax = plt.subplots(figsize=(8,6))
-    axsca = ax.scatter(keypoints[0,:,0],keypoints[0,:,1])
-    ax.set_xlim([-2,2])
-    ax.set_ylim([-2,2])
-    ax.invert_yaxis()
-
-    for i in keypoints:
-        #print(i[:,:1].shape)
-        axsca.set_offsets(i[:,:2])
-        figure.canvas.draw_idle()
-        plt.pause(0.001)
 
 if __name__ == "__main__":
     main()

@@ -3,7 +3,7 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from model import *
-from load_data import try_PCA, load_data
+from data.load_data import try_PCA, load_data
 from sklearn.preprocessing import LabelBinarizer
 
 def train():
