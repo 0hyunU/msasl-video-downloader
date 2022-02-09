@@ -2,7 +2,7 @@ import os
 import json
 import random
 import traceback
-from vidaug import VidAug
+from .vidaug import VidAug
 
 random.seed(random.random())
 
@@ -35,7 +35,7 @@ def split_origin_vid():
 #split_origin_vid()
 
 
-def load_data(data:str = "train") -> list:
+def load_data_json(data:str = "train") -> list:
     """
         data = train or test
     """
@@ -45,7 +45,7 @@ def load_data(data:str = "train") -> list:
     elif data == "test":
         return json.load(open("./train_test/test.json",'r'))
 
-TEST_VID_PATH = load_data("train")[random.randint(0,5)]['files'][random.randint(0,5)]
+TEST_VID_PATH = load_data_json("train")[random.randint(0,5)]['files'][random.randint(0,5)]
 
 def vid2arr(vid_path:str, save_obj:bool = False) -> np.array:
     cap = cv2.VideoCapture(vid_path)
@@ -80,7 +80,7 @@ def show_vid(vid_arr,vid_path=TEST_VID_PATH) -> None:
 
 if __name__ =="__main__":
     try:
-        train_data_dict = load_data()
+        train_data_dict = load_data_json()
         for i in train_data_dict:
             print(i['gloss'])
             test_p = i['files'][0]
