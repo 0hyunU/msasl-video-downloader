@@ -5,12 +5,13 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import glob
 
-from load_data import try_PCA, load_all_data, load_train_test
+from data.load_data import try_PCA, load_all_data, load_train_test
 from tensorflow.keras import layers, models
 from tensorflow.keras.layers import Dense, concatenate, BatchNormalization
 from sklearn.preprocessing import LabelBinarizer
 from tensorflow.keras.layers import LSTM
 
+SEQ_LEN = 50
 
 def draw_model_fitting_result(result, save=False, savefig_name='model_fitting_result_save.png'):
     plt.plot(result.history['loss'],label='loss')
@@ -38,8 +39,7 @@ def dnn_model_after_pca():
               metrics=["accuracy"])
     return model
 
-def dnn_flatten():
-    x,y = load_all_data()
+def dnn_flatten(x,y):
     out_node = len(set(y))
     model = tf.keras.Sequential([
     tf.keras.layers.Flatten(input_shape=x.shape[1:]),
@@ -55,17 +55,17 @@ def dnn_flatten():
               metrics=["accuracy"])
     return model
 
-def cnn_model():
-    x,y = load_all_data()
+def cnn_model(x,y):
+    # x,y = load_all_data()
     out_node = len(set(y))
     model = models.Sequential()
     model.add(layers.Conv2D(32, (3, 3), activation='relu', input_shape=x.shape[1:]))
     model.add(layers.MaxPooling2D((2, 2)))
     model.add(layers.Conv2D(64, (3, 3), activation='relu'))
     model.add(layers.MaxPooling2D((2, 2)))
-    model.add(layers.Conv2D(64, (3, 3), activation='relu'))
+    # model.add(layers.Conv2D(64, (3, 3), activation='relu'))
     model.add(layers.Flatten())
-    model.add(layers.Dense(128, activation='relu'))
+    # model.add(layers.Dense(128, activation='relu'))
     model.add(layers.Dense(64, activation='relu'))
     model.add(layers.Dense(out_node, activation='softmax'))
 
@@ -75,24 +75,19 @@ def cnn_model():
 
     return model
 
-def lstm_model_proto():
-    x,y = load_all_data()
-    x = x.reshape((len(x),150,-1))
+def lstm_model_proto(x,y):
+    x = x.reshape((len(x),SEQ_LEN,-1))
 
     output_node = len(set(y))
     model = models.Sequential()
     model.add(LSTM(64, return_sequences=True,input_shape=x.shape[1:]))
-    model.add(LSTM(128, return_sequences=True))
-    #model.add(layers.Dropout(0.5))
-    model.add(LSTM(64, return_sequences=False))
-    #model.add(layers.Dropout(0.3))
+    # model.add(LSTM(128, return_sequences=True))
+    model.add(LSTM(32, return_sequences=False))
     model.add(layers.Dense(64, activation='relu'))
-    model.add(layers.Dropout(0.2))
-    model.add(layers.Dense(32, activation='relu'))
-    #model.add(layers.Dropout(0.5))
+    # model.add(layers.Dense(64, activation='relu'))
     model.add(layers.Dense(output_node, activation='softmax'))
 
-    opt = tf.keras.optimizers.Adam(learning_rate=0.001)
+    opt = tf.keras.optimizers.Adam()
 
     model.compile(optimizer=opt,
               loss='sparse_categorical_crossentropy',
@@ -235,7 +230,7 @@ def train_multimodal():
     #print(len(tes_x))
     history = model.fit([train_x],train_y,validation_data=(test_x,test_y), epochs = 100,callbacks=ret_callback())
     draw_model_fitting_result(history)
-train_multimodal()
+# train_multimodal()
 #train_lstm()
 #train_cnn_model()
 # x,y = load_all_data()
