@@ -23,18 +23,18 @@ def compress_seq(arr):
 
     
     # res = np.convolve(arr, np.ones(2), 'valid') / 2
-    if len(arr)<=30: return arr
-    elif len(arr) <=60:
+    if len(arr)<=PAD_LEN: return arr
+    elif len(arr) <=PAD_LEN*2:
         window = i = 2
-    elif len(arr) <= 90:
+    elif len(arr) <= PAD_LEN*3:
         window = i = 3
-    elif len(arr) <= 120:
+    elif len(arr) <= PAD_LEN*4:
         window = i = 4
-    elif len(arr) <= 150:
+    elif len(arr) <= PAD_LEN*5:
         window = i = 5
-    elif len(arr) <= 180:
-        window = i = 6
-    elif len(arr) <= 210:
+    elif len(arr) <= PAD_LEN*6:
+         window = i = 6
+    elif len(arr) <= PAD_LEN*7:
         window = i = 7
     res = np.expand_dims(arr[:window].mean(axis=0),0)
     while i+window < len(arr):
