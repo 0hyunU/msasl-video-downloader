@@ -1,6 +1,8 @@
+from msilib.schema import Verb
 import time
 import traceback
 from attr import dataclass
+from cv2 import trace
 import mediapipe as mp
 import numpy as np
 import cv2
@@ -12,7 +14,12 @@ import random
 random.seed(random.random())
 
 DRAW_VID = False
-DRAW_KEYPOINT = True
+DRAW_KEYPOINT = False
+VERBOSE = False
+FACE_FEATUERS = 468
+POSE_FEATURES = 33
+HAND_FEATURES = 21
+
 
 @dataclasses.dataclass
 class KeyArrGen():
@@ -40,7 +47,7 @@ class KeyArrGen():
             image, results.face_landmarks,landmark_drawing_spec=mp_drawing.DrawingSpec(circle_radius=1))
 
     # stack keypoint data consequently
-    def concat_keypoint_data(self,landmark: object, base:np.ndarray) -> np.ndarray:
+    def concat_keypoint_data(self,landmark: object, base:np.ndarray, hands_mean = 0) -> np.ndarray:
         
         if landmark:
             tmp = np.array([[i.x,i.y] for i in landmark.landmark])
@@ -51,6 +58,15 @@ class KeyArrGen():
             when keypoint disappear for a while
             interpolate(보간) data with previous keypoint
             """
+            
+            # if there's no data interploate
+            # fill the data with pose's hand's data
+            if base[-1].sum() == 0:
+                tmp = np.zeros(base[-1].shape)
+                tmp[:,:] = hands_mean
+                if VERBOSE: print("filled with hand's avr")
+                return np.vstack([base,np.expand_dims(tmp,0)])
+
             return np.vstack([base,np.expand_dims(base[-1],0)])
 
     def keypoint_from_vid(self):
@@ -60,7 +76,7 @@ class KeyArrGen():
             
             st_time = time.time()
             results = [holistic.process(img) for img in self.vid_arr]
-            print(f"{len(self.vid_arr)} process time: ",time.time()-st_time)
+            if VERBOSE: print(f"{len(self.vid_arr)} process time: ",time.time()-st_time)
             
             assert len(results) == len(self.vid_arr)
             
@@ -79,10 +95,44 @@ class KeyArrGen():
 
                 show_vid(self.vid_arr)
         return results
+    def modi_seq_length_rand(self,key_arr):
+        if random.random() > 0.5: 
+            res = self.shorten_seq(key_arr)
+        else: 
+            res = self.lengthen_seq(key_arr)
+    
+        return res
+    def lengthen_seq(self,key_arr):
+        res = np.expand_dims(key_arr[0],0)
+        i = 1
+        while i< len(key_arr[1:]):
+            if random.random() <= 0.1:
+                tmp = key_arr[i-1:i+1].mean(axis=0)
+                res = np.vstack([res,np.expand_dims(tmp,0)])
+                continue
+                
+            res = np.vstack([res,np.expand_dims(key_arr[i],0)])
+            i += 1
+        if VERBOSE: print("lengthen seq shapes:",res.shape, key_arr.shape)
+
+        return res
+    def shorten_seq(self, key_arr):
+        res = np.expand_dims(key_arr[0],0)
+        i = 1
+        while i< len(key_arr[1:]):
+            if random.random() <= 0.1:
+                i+=1
+                continue
+            
+            res = np.vstack([res, np.expand_dims(key_arr[i],0)])
+            i += 1
+        if VERBOSE: print("shorten seq shapes:",res.shape, key_arr.shape)
+        return res
+
 
     def kpoint2arr(self,keypoint_res):
         face = pose = lh = rh= np.array([])
-        avail_frame = 1 # start 1 base array stacked
+        avail_frame = 0 # start 1 base array stacked
         avail_flag = False
         for i in keypoint_res:
             holistic_body_visible = ((i.left_hand_landmarks or i.right_hand_landmarks) 
@@ -92,16 +142,24 @@ class KeyArrGen():
             # And init array
             if holistic_body_visible and not avail_flag: 
                 avail_flag = True
-                face = np.zeros((1,468,2))
-                pose = np.zeros((1,33,2))
-                lh = rh = np.zeros((1,21,2))
+                avail_frame += 1 # start 1 base array stacked
+                face = np.zeros((1,FACE_FEATUERS,2))
+                pose = np.zeros((1,POSE_FEATURES,2))
+                lh = rh = np.zeros((1,HAND_FEATURES,2))
 
             if avail_flag:
                 avail_frame +=1
                 pose = self.concat_keypoint_data(i.pose_landmarks, pose)
+                
+                # data interpolation
+                lh_indices =[15,17,19,21]
+                lh_avr = pose[-1,lh_indices,:].mean()
+                rh_indices = [16,18,20,22]
+                rh_avr = pose[-1,rh_indices,:].mean()
+
                 face = self.concat_keypoint_data(i.face_landmarks, face)
-                lh = self.concat_keypoint_data(i.left_hand_landmarks, lh)
-                rh = self.concat_keypoint_data(i.right_hand_landmarks, rh)
+                lh = self.concat_keypoint_data(i.left_hand_landmarks, lh, lh_avr)
+                rh = self.concat_keypoint_data(i.right_hand_landmarks, rh, rh_avr)
         
         face = np.array(face)
         pose = np.array(pose)
@@ -116,14 +174,26 @@ class KeyArrGen():
             print(traceback.format_exc())
             print("array len: ",len(face) ,len(pose) ,len(lh) ,len(rh) , avail_frame)
 
-        # keypoint minmax scaling
-        keypoint_concat = np.concatenate((face,pose,lh,rh),axis=1)
-        print("keypoint before scale:", keypoint_concat.max(), keypoint_concat.min())   
-        keypoint_concat = self.minmaxscale_keypoint(keypoint_concat)
-        print("keypoint after scale", keypoint_concat.max(),keypoint_concat.max())
+        try:
+            # keypoint minmax scaling
+            keypoint_concat = np.concatenate((face,pose[:,:25,:],lh,rh),axis=1)
+            if VERBOSE: print("keypoint before scale:", keypoint_concat.max(), keypoint_concat.min())   
+            keypoint_concat_ = self.minmaxscale_keypoint(keypoint_concat)
+            if VERBOSE: print("keypoint after scale", keypoint_concat_.max(),keypoint_concat_.min())
+        except Exception as e:
+            print(e)
+            print(traceback.format_exc())
+            return np.zeros((1,))
 
         if DRAW_KEYPOINT: 
-            import draw_plot as v
-            v.plot_2D_keypoint_every_move(keypoint_concat)
+            from .draw_plot import plot_2D_keypoint_every_move
+            plot_2D_keypoint_every_move(keypoint_concat)
+            plot_2D_keypoint_every_move(keypoint_concat_)
 
-        return keypoint_concat
+        st_time = time.time()
+        res = self.modi_seq_length_rand(keypoint_concat_)
+        if VERBOSE: print("numpy injection time: ",time.time()- st_time)
+
+        if DRAW_KEYPOINT: plot_2D_keypoint_every_move(res)
+    
+        return res
