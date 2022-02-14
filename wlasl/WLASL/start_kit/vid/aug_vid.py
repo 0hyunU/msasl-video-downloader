@@ -67,7 +67,7 @@ def vid2arr(vid_path:str, save_obj:bool = False) -> np.array:
 
     return frame_list
 
-def show_vid(vid_arr,vid_path=TEST_VID_PATH) -> None:
+def show_vid(vid_arr,vid_path=TEST_VID_PATH, vid_title="Image") -> None:
     
     if vid_arr is None:
         vid_arr = vid2arr(vid_path)
@@ -75,7 +75,7 @@ def show_vid(vid_arr,vid_path=TEST_VID_PATH) -> None:
         vid_arr = vid_arr
 
     for i in vid_arr:
-        cv2.imshow("Image",cv2.cvtColor(i, cv2.COLOR_RGB2BGR))
+        cv2.imshow(f"{vid_title}",cv2.cvtColor(i, cv2.COLOR_RGB2BGR))
         cv2.waitKey(10)
 
 if __name__ =="__main__":
