@@ -30,6 +30,7 @@ class KeyArrGen():
         return self.kpoint2arr(key_res)
 
     def minmaxscale_keypoint(self,keypoint):
+        #todo x,y separate
         from sklearn.preprocessing import MinMaxScaler
         mms = MinMaxScaler()
         mms.fit(keypoint.reshape((-1,1)))
