@@ -6,15 +6,17 @@ import pickle
 import imutils
 import os
 import time
-import json
 
 VERBOSE_SHAPE_DIMENSION = False
+VERBOSE_AUG_CONTENTS = False
 
 class VidAug():
+
     def __init__(self, vid_path, save =False) -> None:
         self.vid_path = vid_path
         self.save = save
         self.vid_arr = self.vid2arr()
+        self.aug_time = 0
 
     def vid2arr(self):
         cap = cv2.VideoCapture(self.vid_path)
@@ -90,7 +92,7 @@ class VidAug():
 
     def rotate_vidArr(self,vid_arr):
     
-        angle = random.uniform(-20,20)
+        angle = random.uniform(-30,30)
         # rotate type
         if random.randint(0,1) % 2: 
             vid_arr_rot = np.array([imutils.rotate_bound(img,angle) for img in vid_arr])
@@ -100,7 +102,7 @@ class VidAug():
         return vid_arr_rot
     
     def hshift_vidArr(self,vid_arr):
-        rate = random.gauss(0,0.1)
+        rate = random.gauss(0,0.2)
         rows,cols = vid_arr.shape[1:3]
 
         M = np.float32([[1, 0, cols * rate], [0, 1, 1]])
@@ -118,24 +120,30 @@ class VidAug():
 
     def stretch_vidArr(self,vid_arr):
         cols,rows = vid_arr.shape[1:3]
-        rate_y = 1 + random.uniform(-0.2,0.2)
-        rate_x = 1 + random.uniform(-0.2,0.2)
+        rate_y = 1 + random.uniform(-0.5,0.5)
+        rate_x = 1 + random.uniform(-0.5,0.5)
+        
+        if VERBOSE_AUG_CONTENTS: print("x,y rates",rate_x,rate_y)
+        
         return np.array([cv2.resize(img,(int(rows*rate_y),int(cols*rate_x))) for img in vid_arr])
         
 
-    def aug_vid_randomly(self):
+    def get_randomly_aug_vid(self):
 
         aug_func_list = [self.crop_vidArr,self.stretch_vidArr,self.hshift_vidArr,
              self.vshift_vidArr,self.rotate_vidArr,self.flip_vidArr]
         random.shuffle(aug_func_list)
-        print("shuffled aug func: ",aug_func_list)
+        #aug_func_list = [self.stretch_vidArr]
+        if VERBOSE_AUG_CONTENTS: print("shuffled aug func: ",aug_func_list)
 
         st_time = time.time()
         vid_arr = self.vid_arr
         for i in aug_func_list:
-            if random.randint(0,10)>=5:
-                vid_arr = i(vid_arr) 
-        print("aug processing time: ",time.time()-st_time)
+            if random.randint(0,10)>=4:
+                vid_arr = i(vid_arr)
+        self.aug_time = time.time() - st_time
+        if VERBOSE_AUG_CONTENTS:
+             print("aug processing time: ",self.aug_time)
         
         return vid_arr
     

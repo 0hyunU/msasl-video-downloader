@@ -1,7 +1,3 @@
-from keypoint import *
-
-
-
 def main():
     pass
 
