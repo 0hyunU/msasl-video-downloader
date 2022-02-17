@@ -3,7 +3,7 @@ import pickle
 import glob
 import numpy as np
 import matplotlib.pyplot as plt
-from data.load_data import draw_plot
+from data.load_data import MAX_LEN, draw_plot
 from secon_proto_model import load_test_data, load_train_data
 from vid.aug_vid import load_data_json
 from vid.draw_plot import plot_2D_keypoint_every_move
@@ -37,31 +37,12 @@ def processing_time():
     plt.show()
 
 def compress_seq(arr):
-    ## method 1 -> using filter
-    # i = 1
-    # # sequence length - filter_length = 30
-    # filter = len(arr) - 30
-    # res = np.expand_dims(arr[:filter].mean(axis=0), 0)
-    
-    # while i+filter< len(arr):
-    #     res = np.vstack([res, np.expand_dims(arr[i:filter+i].mean(axis=0),0)])
-    #     i+=1
 
-    
-    # res = np.convolve(arr, np.ones(2), 'valid') / 2
-    if len(arr)<=50: return arr
-    elif len(arr) <=100:
-        window = i = 2
-    elif len(arr) <= 150:
-        window = i = 3
-    elif len(arr) <= 200:
-        window = i = 4
-    # elif len(arr) <= 150:
-    #     window = i = 5
-    # elif len(arr) <= 180:
-    #     window = i = 6
-    # elif len(arr) <= 210:
-        # window = i = 7
+    MAX_SEQ = 50
+    if len(arr)<=MAX_SEQ: return arr
+
+    window = i = ((len(arr) // MAX_SEQ) + 1)
+
     res = np.expand_dims(arr[:window].mean(axis=0),0)
     while i+window < len(arr):
         res = np.vstack([res,np.expand_dims(arr[i:window+i].mean(axis=0), 0) ])
