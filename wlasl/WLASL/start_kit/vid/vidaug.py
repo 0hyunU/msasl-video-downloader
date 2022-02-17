@@ -92,7 +92,7 @@ class VidAug():
 
     def rotate_vidArr(self,vid_arr):
     
-        angle = random.uniform(-30,30)
+        angle = random.uniform(-40,40)
         # rotate type
         if random.randint(0,1) % 2: 
             vid_arr_rot = np.array([imutils.rotate_bound(img,angle) for img in vid_arr])
@@ -111,7 +111,7 @@ class VidAug():
         return shifted_arr
 
     def vshift_vidArr(self,vid_arr):
-        rate = random.gauss(0,0.1)
+        rate = random.uniform(-0.3,0.3)
         rows,cols = vid_arr.shape[1:3]
 
         M = np.float32([[1,0,1],[0,1,rows*rate]])
