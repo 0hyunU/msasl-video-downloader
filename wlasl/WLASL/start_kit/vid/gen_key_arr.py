@@ -33,8 +33,9 @@ class KeyArrGen():
         #todo x,y separate
         from sklearn.preprocessing import MinMaxScaler
         mms = MinMaxScaler()
-        mms.fit(keypoint.reshape((-1,1)))
-        res = mms.transform(keypoint.reshape((-1,1))).reshape(keypoint.shape)
+        res = keypoint
+        for i in range(res.shape[2]):
+            res[:,:,i] =mms.fit_transform(keypoint[:,:,i].reshape((-1,1))).reshape(keypoint.shape[:2])
         return res
 
     def draw_landmark(self,image,mp_drawing, results):
@@ -59,7 +60,7 @@ class KeyArrGen():
             when keypoint disappear for a while
             interpolate(보간) data with previous keypoint
             """
-            
+            # a[:,468:,:][:,lh_indices,:].mean(1) - a[:,493:-21,:].mean(1)
             # if there's no data interploate
             # fill the data with pose's hand's data
             if base[-1].sum() == 0:
@@ -82,7 +83,7 @@ class KeyArrGen():
             assert len(results) == len(self.vid_arr)
             
             if DRAW_VID:
-                show_vid(self.vid_arr)
+                show_vid(self.vid_arr, vid_title="Image without keypoint")
                 mp_drawing = mp.solutions.drawing_utils
                 
                 try:
@@ -94,7 +95,7 @@ class KeyArrGen():
                     print(e)
                     print(traceback.format_exc())
 
-                show_vid(self.vid_arr)
+                show_vid(self.vid_arr, vid_title="Image with keypoint")
         return results
     def modi_seq_length_rand(self,key_arr):
         if random.random() > 0.5: 
@@ -195,6 +196,7 @@ class KeyArrGen():
         res = self.modi_seq_length_rand(keypoint_concat_)
         if VERBOSE: print("numpy injection time: ",time.time()- st_time)
 
-        if DRAW_KEYPOINT: plot_2D_keypoint_every_move(res)
+        if DRAW_KEYPOINT: 
+            (res)
     
         return res
