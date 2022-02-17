@@ -72,13 +72,13 @@ def compress_seq(arr):
 
 if __name__ == "__main__":
     processing_time()
-    x,y = load_test_data()
+    x,y = load_train_data()
     a = 0
-    for i in x:
-        print(len(i), compress_seq(i).shape)
-        if len(i) < 100: continue
-        else: a+=1
-        # plot_2D_keypoint_every_move(i)
-        # plot_2D_keypoint_every_move(compress_seq(i))
+    for i,j in zip(x,y):
+        print(len(i), compress_seq(i).shape, j)
+        # if len(i) < 100: continue
+        # else: a+=1
+        #plot_2D_keypoint_every_move(i)
+        plot_2D_keypoint_every_move(compress_seq(i))
     
     print(a)
