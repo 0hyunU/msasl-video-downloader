@@ -1,0 +1,20 @@
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin
+INFO:root:rv: 0
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=J7tP98oDxqE
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\J7tP98oDxqE.mp4 downloaded
+INFO:root:YouTube Downloading time: 4.597802400588989
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\J7tP98oDxqE.mp4
+INFO:root:start_time: 0.0, end_time: 2.64
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin
+INFO:root:rv: 0
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=IgT0jDp56ZM
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\IgT0jDp56ZM.mp4 downloaded
+INFO:root:YouTube Downloading time: 13.606515407562256
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\IgT0jDp56ZM.mp4
+INFO:root:start_time: 0.0, end_time: 3.577
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin

@@ -1,0 +1,2030 @@
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\black
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\book
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\cousin
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\deaf
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\drink
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\go
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\no
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\orange
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\walk
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\test\woman
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\black
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\book
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\cousin
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\deaf
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\drink
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\go
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\no
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\orange
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\walk
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\val\woman
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=J7tP98oDxqE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\J7tP98oDxqE.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.64
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=IgT0jDp56ZM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\IgT0jDp56ZM.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.577
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\htsdwxJ-fTo.mp4
+INFO:root:TRIM start_time: 15.682, end_time: 17.05
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\htsdwxJ-fTo.mp4
+INFO:root:TRIM start_time: 95.696, end_time: 97.597
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\htsdwxJ-fTo.mp4
+INFO:root:TRIM start_time: 126.059, end_time: 128.295
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K8c-np9zNT8.mp4
+INFO:root:TRIM start_time: 113.84, end_time: 117.48
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K8c-np9zNT8.mp4
+INFO:root:TRIM start_time: 117.48, end_time: 122.12
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K8c-np9zNT8.mp4
+INFO:root:TRIM start_time: 719.2, end_time: 723.52
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K8c-np9zNT8.mp4
+INFO:root:TRIM start_time: 723.52, end_time: 727.8
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Cgh1DXAQBuI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Cgh1DXAQBuI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k6cNmM9WgUs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k6cNmM9WgUs.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.669
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=pkzfT9cYvH0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\pkzfT9cYvH0.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.103
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=shPBfkIYYpU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\shPBfkIYYpU.mp4
+INFO:root:TRIM start_time: 948.881, end_time: 953.152
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=shPBfkIYYpU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\shPBfkIYYpU.mp4
+INFO:root:TRIM start_time: 953.286, end_time: 955.988
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RWYus9H4YrQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RWYus9H4YrQ.mp4
+INFO:root:TRIM start_time: 290.12, end_time: 292.92
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RWYus9H4YrQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RWYus9H4YrQ.mp4
+INFO:root:TRIM start_time: 296.44, end_time: 299.16
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XjWSfh50kAU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XjWSfh50kAU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.5
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2SkeRyJnT0k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2SkeRyJnT0k.mp4
+INFO:root:TRIM start_time: 28.796, end_time: 30.631
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2SkeRyJnT0k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2SkeRyJnT0k.mp4
+INFO:root:TRIM start_time: 31.064, end_time: 33.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=bqB9rqJ0w7k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\bqB9rqJ0w7k.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sErq0TJMKEo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sErq0TJMKEo.mp4
+INFO:root:TRIM start_time: 392.325, end_time: 396.897
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XhsACc1jw0s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XhsACc1jw0s.mp4
+INFO:root:TRIM start_time: 3.675, end_time: 8.688
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fUlWG-qGFis
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fUlWG-qGFis.mp4
+INFO:root:TRIM start_time: 65.999, end_time: 70.938
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=I07uu8vnJYs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\I07uu8vnJYs.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.16
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-_0i3qAEM1E
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-_0i3qAEM1E.mp4
+ERROR:root:start_time: 0.0, end_time: 2.667
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-_0i3qAEM1E
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-_0i3qAEM1E.mp4
+ERROR:root:start_time: 3.0, end_time: 5.4
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-_0i3qAEM1E
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-_0i3qAEM1E.mp4
+ERROR:root:start_time: 5.4, end_time: 8.067
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ax2UGtA8h3E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ax2UGtA8h3E.mp4
+INFO:root:TRIM start_time: 36.503, end_time: 39.473
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=eXpXg4q-qEQ&t=170s
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-qEQ&t=170s.mp4
+ERROR:root:start_time: 83.517, end_time: 88.889
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=QTbj2GM5ohs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QTbj2GM5ohs.mp4
+INFO:root:TRIM start_time: 74.76, end_time: 79.36
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=QTbj2GM5ohs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QTbj2GM5ohs.mp4
+INFO:root:TRIM start_time: 86.6, end_time: 90.32
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=my4mxg6lXYQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\my4mxg6lXYQ.mp4
+INFO:root:TRIM start_time: 74.107, end_time: 76.109
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=my4mxg6lXYQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\my4mxg6lXYQ.mp4
+INFO:root:TRIM start_time: 484.184, end_time: 490.357
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=LPyvlWpL-xk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\LPyvlWpL-xk.mp4
+INFO:root:TRIM start_time: 298.72, end_time: 306.36
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=TLoZKdMeA8w
+WARNING:py.warnings:C:\Users\user\anaconda3\envs\cudatry\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:130: UserWarning: Warning: in file C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TLoZKdMeA8w.mp4, 2764800 bytes wanted but 0 bytes read,at frame 93/94, at time 3.10/3.11 sec. Using the last valid frame instead.
+  UserWarning)
+
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TLoZKdMeA8w.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.136
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=27djXV1qAss
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\27djXV1qAss.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.967
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mfrGIHTnKvI.mp4
+INFO:root:TRIM start_time: 85.226, end_time: 88.429
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mfrGIHTnKvI.mp4
+INFO:root:TRIM start_time: 122.286, end_time: 124.158
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mfrGIHTnKvI.mp4
+INFO:root:TRIM start_time: 131.603, end_time: 134.265
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mfrGIHTnKvI.mp4
+INFO:root:TRIM start_time: 136.636, end_time: 139.132
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mfrGIHTnKvI.mp4
+INFO:root:TRIM start_time: 168.663, end_time: 171.7
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TwkGS9TjUX8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TwkGS9TjUX8.mp4
+INFO:root:TRIM start_time: 504.804, end_time: 510.744
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=f7COHRpmVKA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\f7COHRpmVKA.mp4
+INFO:root:TRIM start_time: 52.352, end_time: 57.324
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=sN-PvjTdOCM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sN-PvjTdOCM.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.17
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=WACMzmRGgY8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=YsLUNOu9jXU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\YsLUNOu9jXU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.303
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUvhi7Lox14
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HUvhi7Lox14.mp4
+INFO:root:TRIM start_time: 1.335, end_time: 3.337
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUvhi7Lox14
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HUvhi7Lox14.mp4
+INFO:root:TRIM start_time: 4.671, end_time: 7.007
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUvhi7Lox14
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HUvhi7Lox14.mp4
+INFO:root:TRIM start_time: 8.675, end_time: 11.011
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUvhi7Lox14
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HUvhi7Lox14.mp4
+INFO:root:TRIM start_time: 12.012, end_time: 14.348
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=nyUDOPmQlZQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\nyUDOPmQlZQ.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.47
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rTykxVBxc00
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rTykxVBxc00.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.7
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=SiTBL7DYzZQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\SiTBL7DYzZQ.mp4
+INFO:root:TRIM start_time: 64.36, end_time: 68.44
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=V3hT7-PIJz4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\V3hT7-PIJz4.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.075
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=hqF01cx9jYs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\hqF01cx9jYs.mp4
+INFO:root:TRIM start_time: 5.405, end_time: 7.674
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ZJC6RCmgUGI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZJC6RCmgUGI.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.69
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mCjHYreiZ24
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mCjHYreiZ24.mp4
+INFO:root:TRIM start_time: 673.506, end_time: 678.478
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mCjHYreiZ24
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mCjHYreiZ24.mp4
+INFO:root:TRIM start_time: 689.689, end_time: 694.661
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ZevaHrDogo8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZevaHrDogo8.mp4
+INFO:root:TRIM start_time: 2.669, end_time: 8.675
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ZevaHrDogo8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZevaHrDogo8.mp4
+INFO:root:TRIM start_time: 8.675, end_time: 12.012
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=CR1cRZi1jtQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\CR1cRZi1jtQ.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.295
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=bHRhz2geOTA
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=6XcxbPfP5YQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\6XcxbPfP5YQ.mp4
+INFO:root:TRIM start_time: 32.2, end_time: 35.84
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=_8t-Avfk310
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_8t-Avfk310.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 7.455
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=3zoqSvF0Z2A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\3zoqSvF0Z2A.mp4
+INFO:root:TRIM start_time: 48.733, end_time: 50.3
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OsSj-kl579A
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sKSFluFAcio
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sKSFluFAcio.mp4
+INFO:root:TRIM start_time: 18.44, end_time: 21.16
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fzroOSp32S4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fzroOSp32S4.mp4
+INFO:root:TRIM start_time: 50.05, end_time: 54.888
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=uPWzbFvXcuw
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=K4lo0NZDlH8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K4lo0NZDlH8.mp4
+INFO:root:TRIM start_time: 132.833, end_time: 135.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=kK1ms78-_mc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\kK1ms78-_mc.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.05
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=jmlYtEoHKiY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\jmlYtEoHKiY.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 9.314
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=5sMmseav-dU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\5sMmseav-dU.mp4
+INFO:root:TRIM start_time: 25.759, end_time: 27.961
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vE4RFGPqGqY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vE4RFGPqGqY.mp4
+INFO:root:TRIM start_time: 229.3, end_time: 231.733
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=8hBFgtJOZaE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\8hBFgtJOZaE.mp4
+INFO:root:TRIM start_time: 159.4, end_time: 161.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=8hBFgtJOZaE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\8hBFgtJOZaE.mp4
+INFO:root:TRIM start_time: 165.4, end_time: 167.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p36hZJQpLoQ.mp4
+INFO:root:TRIM start_time: 33.467, end_time: 36.403
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p36hZJQpLoQ.mp4
+INFO:root:TRIM start_time: 90.924, end_time: 92.993
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p36hZJQpLoQ.mp4
+INFO:root:TRIM start_time: 114.247, end_time: 117.551
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Tckw40A23Bc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Tckw40A23Bc.mp4
+INFO:root:TRIM start_time: 81.0, end_time: 86.96
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Tckw40A23Bc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Tckw40A23Bc.mp4
+INFO:root:TRIM start_time: 87.24, end_time: 88.72
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=tO6x4rdDNXk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\tO6x4rdDNXk.mp4
+INFO:root:TRIM start_time: 237.04, end_time: 244.36
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sRFEk6j4w_8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sRFEk6j4w_8.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 6.615
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=XBjyvy4ASgc
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WuwIz-vDMUc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WuwIz-vDMUc.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.969
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wkxCnCMo7Mc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wkxCnCMo7Mc.mp4
+INFO:root:TRIM start_time: 52.953, end_time: 54.021
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VTtg&t=242s.mp4
+INFO:root:TRIM start_time: 28.562, end_time: 31.532
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VTtg&t=242s.mp4
+INFO:root:TRIM start_time: 68.268, end_time: 71.271
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VTtg&t=242s.mp4
+INFO:root:TRIM start_time: 683.049, end_time: 687.02
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VTtg&t=242s.mp4
+INFO:root:TRIM start_time: 701.534, end_time: 704.504
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VTtg&t=242s.mp4
+INFO:root:TRIM start_time: 971.103, end_time: 974.073
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k0T-yY_HrEQ.mp4
+INFO:root:TRIM start_time: 86.286, end_time: 90.19
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k0T-yY_HrEQ.mp4
+INFO:root:TRIM start_time: 90.19, end_time: 93.193
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k0T-yY_HrEQ.mp4
+INFO:root:TRIM start_time: 93.193, end_time: 97.597
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k0T-yY_HrEQ.mp4
+INFO:root:TRIM start_time: 98.165, end_time: 100.067
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k0T-yY_HrEQ.mp4
+INFO:root:TRIM start_time: 100.133, end_time: 102.035
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=pc0-gVEETVg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\pc0-gVEETVg.mp4
+INFO:root:TRIM start_time: 73.24, end_time: 77.411
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yAWM8TKoSuY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yAWM8TKoSuY.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.9
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=4iWzK-kKmIU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\4iWzK-kKmIU.mp4
+INFO:root:TRIM start_time: 1.67, end_time: 5.011
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=4iWzK-kKmIU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\4iWzK-kKmIU.mp4
+INFO:root:TRIM start_time: 5.011, end_time: 11.693
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9LlyuneZA0Q
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9LlyuneZA0Q.mp4
+ERROR:root:start_time: 0.0, end_time: 4.48
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=HoDXS3W8lEM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HoDXS3W8lEM.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.075
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=i47aN_PUDvk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\i47aN_PUDvk.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.571
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=eMZdggjnLQA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\eMZdggjnLQA.mp4
+INFO:root:TRIM start_time: 221.688, end_time: 225.625
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 71.872, end_time: 73.874
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 73.874, end_time: 76.877
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 76.877, end_time: 79.88
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 79.88, end_time: 80.881
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 80.881, end_time: 81.882
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 81.882, end_time: 83.884
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OSPBKnsTuDY.mp4
+INFO:root:TRIM start_time: 83.884, end_time: 87.654
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=U32Kznk2a70
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\U32Kznk2a70.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.537
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Ufssf7MdY20
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ufssf7MdY20.mp4
+INFO:root:TRIM start_time: 4.004, end_time: 5.672
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Ufssf7MdY20
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ufssf7MdY20.mp4
+INFO:root:TRIM start_time: 5.672, end_time: 10.344
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-LB4ENHxcIs
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-LB4ENHxcIs.mp4
+ERROR:root:start_time: 41.441, end_time: 43.51
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-LB4ENHxcIs
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-LB4ENHxcIs.mp4
+ERROR:root:start_time: 75.242, end_time: 77.444
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=jzemBg_G8zU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\jzemBg_G8zU.mp4
+INFO:root:TRIM start_time: 170.04, end_time: 178.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=VI7-AxRoi-8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VI7-AxRoi-8.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.969
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=kyLNqzXq8IA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\kyLNqzXq8IA.mp4
+INFO:root:TRIM start_time: 44.812, end_time: 48.315
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=kyLNqzXq8IA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\kyLNqzXq8IA.mp4
+INFO:root:TRIM start_time: 95.096, end_time: 99.366
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=IbpWUgidDS0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WprUBqi3iBc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WprUBqi3iBc.mp4
+INFO:root:TRIM start_time: 45.679, end_time: 49.55
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WprUBqi3iBc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WprUBqi3iBc.mp4
+INFO:root:TRIM start_time: 74.174, end_time: 78.745
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yzl_Ez0ZB9Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yzl_Ez0ZB9Q.mp4
+INFO:root:TRIM start_time: 36.336, end_time: 37.738
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yzl_Ez0ZB9Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yzl_Ez0ZB9Q.mp4
+INFO:root:TRIM start_time: 38.071, end_time: 39.94
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=hEOcz-FHs4U
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=hEOcz-FHs4U
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=4hpFsUaFby0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\4hpFsUaFby0.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.667
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=YTRcwXhX4gc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\YTRcwXhX4gc.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.933
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=dZGxPkGt7QA
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rnr_aY0X0dQ.mp4
+INFO:root:TRIM start_time: 66.133, end_time: 68.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rnr_aY0X0dQ.mp4
+INFO:root:TRIM start_time: 161.733, end_time: 163.067
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rnr_aY0X0dQ.mp4
+INFO:root:TRIM start_time: 163.6, end_time: 164.933
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rnr_aY0X0dQ.mp4
+INFO:root:TRIM start_time: 410.9, end_time: 412.033
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rnr_aY0X0dQ.mp4
+INFO:root:TRIM start_time: 576.967, end_time: 582.267
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=eIPe2WLrJtY
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2nXrJ_7NOgE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2nXrJ_7NOgE.mp4
+INFO:root:TRIM start_time: 390.0, end_time: 390.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wwF6ExCtC54
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wwF6ExCtC54.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.96
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p8OYydc3WQM.mp4
+INFO:root:TRIM start_time: 186.653, end_time: 189.523
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p8OYydc3WQM.mp4
+INFO:root:TRIM start_time: 202.803, end_time: 206.339
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p8OYydc3WQM.mp4
+INFO:root:TRIM start_time: 319.753, end_time: 322.689
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p8OYydc3WQM.mp4
+INFO:root:TRIM start_time: 349.716, end_time: 355.689
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\p8OYydc3WQM.mp4
+INFO:root:TRIM start_time: 388.889, end_time: 392.325
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ppwqqeS8dzw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ppwqqeS8dzw.mp4
+INFO:root:TRIM start_time: 5.005, end_time: 9.009
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ppwqqeS8dzw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ppwqqeS8dzw.mp4
+INFO:root:TRIM start_time: 10.677, end_time: 12.012
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rNhQlDb-6UE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rNhQlDb-6UE.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.3
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=hjS0dQDgbjo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\hjS0dQDgbjo.mp4
+INFO:root:TRIM start_time: 85.852, end_time: 89.823
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=4feZ5E3o10A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\4feZ5E3o10A.mp4
+INFO:root:TRIM start_time: 24.3, end_time: 26.233
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=5Sb-YjNphkY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\5Sb-YjNphkY.mp4
+INFO:root:TRIM start_time: 139.68, end_time: 147.68
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=41X2t_s2Ai4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\41X2t_s2Ai4.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.52
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sP4e9vRUCYM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sP4e9vRUCYM.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.436
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=13OPrjZT9lo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=13OPrjZT9lo
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 258.88, end_time: 262.08
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 264.48, end_time: 267.68
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 270.2, end_time: 273.4
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 277.0, end_time: 279.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 1298.6, end_time: 1301.4
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UXetwN_cI5A.mp4
+INFO:root:TRIM start_time: 1303.8, end_time: 1306.6
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 64.794, end_time: 69.798
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 79.908, end_time: 85.88
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 134.759, end_time: 140.898
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 270.786, end_time: 273.922
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 273.989, end_time: 277.659
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 316.729, end_time: 322.668
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\_GpaJc&t=3s.mp4
+INFO:root:TRIM start_time: 328.006, end_time: 334.179
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=MDQQ9WZNwcc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\MDQQ9WZNwcc.mp4
+INFO:root:TRIM start_time: 123.757, end_time: 126.793
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=MDQQ9WZNwcc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\MDQQ9WZNwcc.mp4
+INFO:root:TRIM start_time: 173.874, end_time: 175.542
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=MDQQ9WZNwcc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\MDQQ9WZNwcc.mp4
+INFO:root:TRIM start_time: 176.109, end_time: 177.11
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=Wt4p6qWgR1k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Wt4p6qWgR1k.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.035
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vX7TC7Qrb64
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vX7TC7Qrb64.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.002
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vX7TC7Qrb64
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vX7TC7Qrb64.mp4
+INFO:root:TRIM start_time: 5.672, end_time: 7.674
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vX7TC7Qrb64
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vX7TC7Qrb64.mp4
+INFO:root:TRIM start_time: 9.343, end_time: 11.678
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0UsjUE-TXns
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0UsjUE-TXns.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.768
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=2YsxdBYO6Jk
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=qAF88xW4xPY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\qAF88xW4xPY.mp4
+INFO:root:TRIM start_time: 76.109, end_time: 77.544
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=qAF88xW4xPY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\qAF88xW4xPY.mp4
+INFO:root:TRIM start_time: 76.076, end_time: 79.079
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=qAF88xW4xPY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\qAF88xW4xPY.mp4
+INFO:root:TRIM start_time: 79.079, end_time: 80.714
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=GobeSyJHyLk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GobeSyJHyLk.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.469
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=sP4UqX7_wqw
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Zjg2IfknuHE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Zjg2IfknuHE.mp4
+INFO:root:TRIM start_time: 129.32, end_time: 136.6
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fJVwZyjEa4k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fJVwZyjEa4k.mp4
+INFO:root:TRIM start_time: 12.513, end_time: 16.517
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fJVwZyjEa4k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fJVwZyjEa4k.mp4
+INFO:root:TRIM start_time: 82.749, end_time: 86.653
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=YasOpK1RNvg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\YasOpK1RNvg.mp4
+INFO:root:TRIM start_time: 1.301, end_time: 2.336
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xx1mmM_E10s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xx1mmM_E10s.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.011
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=DOZJOFHs75s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\DOZJOFHs75s.mp4
+INFO:root:TRIM start_time: 38.105, end_time: 39.706
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=DOZJOFHs75s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\DOZJOFHs75s.mp4
+INFO:root:TRIM start_time: 39.773, end_time: 42.276
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=DOZJOFHs75s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\DOZJOFHs75s.mp4
+INFO:root:TRIM start_time: 106.94, end_time: 109.776
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KftGqsKKn7w
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KftGqsKKn7w.mp4
+INFO:root:TRIM start_time: 62.167, end_time: 66.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yRFpGRVjGxo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yRFpGRVjGxo.mp4
+INFO:root:TRIM start_time: 2.002, end_time: 4.338
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yRFpGRVjGxo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yRFpGRVjGxo.mp4
+INFO:root:TRIM start_time: 5.005, end_time: 7.341
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=60omp0MhwPU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\60omp0MhwPU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.36
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vcrTUbE1NoY.mp4
+INFO:root:TRIM start_time: 7.741, end_time: 10.244
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vcrTUbE1NoY.mp4
+INFO:root:TRIM start_time: 10.31, end_time: 12.813
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vcrTUbE1NoY.mp4
+INFO:root:TRIM start_time: 66.967, end_time: 71.471
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=NAZKMt2NhtU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\NAZKMt2NhtU.mp4
+INFO:root:TRIM start_time: 14.681, end_time: 16.984
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=NAZKMt2NhtU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\NAZKMt2NhtU.mp4
+INFO:root:TRIM start_time: 29.129, end_time: 29.997
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=NAZKMt2NhtU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\NAZKMt2NhtU.mp4
+INFO:root:TRIM start_time: 27.394, end_time: 30.464
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4M6Y4QgvO2k
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4M6Y4QgvO2k
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RjtQ5iyxBrI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RjtQ5iyxBrI.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.92
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1RjPFNyJ4Tw.mp4
+INFO:root:TRIM start_time: 121.455, end_time: 125.959
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1RjPFNyJ4Tw.mp4
+INFO:root:TRIM start_time: 138.105, end_time: 141.074
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1RjPFNyJ4Tw.mp4
+INFO:root:TRIM start_time: 204.071, end_time: 207.474
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1RjPFNyJ4Tw.mp4
+INFO:root:TRIM start_time: 298.465, end_time: 305.138
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ptIbdZNuwR0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ptIbdZNuwR0.mp4
+INFO:root:TRIM start_time: 0.467, end_time: 1.568
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Ks26De5YvSg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ks26De5YvSg.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.833
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=AkGYEiN8vOY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\AkGYEiN8vOY.mp4
+INFO:root:TRIM start_time: 13.04, end_time: 19.08
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=ORt_WpwODZ0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XUg1eKl65p4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XUg1eKl65p4.mp4
+INFO:root:TRIM start_time: 92.426, end_time: 94.127
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XUg1eKl65p4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XUg1eKl65p4.mp4
+INFO:root:TRIM start_time: 94.528, end_time: 96.229
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XUg1eKl65p4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XUg1eKl65p4.mp4
+INFO:root:TRIM start_time: 96.53, end_time: 97.998
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XUg1eKl65p4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XUg1eKl65p4.mp4
+INFO:root:TRIM start_time: 98.098, end_time: 100.067
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XtkDeYBnR8o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XtkDeYBnR8o.mp4
+INFO:root:TRIM start_time: 26.727, end_time: 29.062
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XtkDeYBnR8o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XtkDeYBnR8o.mp4
+INFO:root:TRIM start_time: 29.997, end_time: 32.099
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9oISD6M-shc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9oISD6M-shc.mp4
+INFO:root:TRIM start_time: 4.004, end_time: 7.674
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OY1KL0vbBIo&t=135s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\bBIo&t=135s.mp4
+INFO:root:TRIM start_time: 103.837, end_time: 107.507
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Fz1I_Ssr3AE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Fz1I_Ssr3AE.mp4
+INFO:root:TRIM start_time: 212.24, end_time: 216.24
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9ko47J797_U&t=8s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\J797_U&t=8s.mp4
+INFO:root:TRIM start_time: 527.227, end_time: 533.199
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=OxvNbywgURw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\OxvNbywgURw.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.44
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=pv1yeA4iHmU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\pv1yeA4iHmU.mp4
+INFO:root:TRIM start_time: 47.781, end_time: 52.285
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=SdAhWTmIZ3I
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=75BkNdtDsoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\75BkNdtDsoQ.mp4
+INFO:root:TRIM start_time: 319.2, end_time: 322.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=75BkNdtDsoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\75BkNdtDsoQ.mp4
+INFO:root:TRIM start_time: 322.0, end_time: 328.4
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=75BkNdtDsoQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\75BkNdtDsoQ.mp4
+INFO:root:TRIM start_time: 354.36, end_time: 357.24
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g0-WX7prrxo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g0-WX7prrxo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xls-2HJLGSQ
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xls-2HJLGSQ
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Va7MKZV6Dic
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Va7MKZV6Dic.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.967
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=vfGBrMvyu10
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vfGBrMvyu10.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.3
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=F5Wef1_PtLk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\F5Wef1_PtLk.mp4
+INFO:root:TRIM start_time: 228.261, end_time: 233.166
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=bGMKkn2ZqJI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\bGMKkn2ZqJI.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 5.6
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=d3hz26r_ulw
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oDnz2t98VYk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oDnz2t98VYk
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KRrKqGEGdMg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KRrKqGEGdMg.mp4
+INFO:root:TRIM start_time: 807.507, end_time: 811.477
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=H63Q4sfu9mk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\H63Q4sfu9mk.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.6
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yX9vjlBjkMY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yX9vjlBjkMY.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 6.517
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ZHUVt5W8UEk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZHUVt5W8UEk.mp4
+INFO:root:TRIM start_time: 81.248, end_time: 83.35
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ZHUVt5W8UEk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZHUVt5W8UEk.mp4
+INFO:root:TRIM start_time: 90.791, end_time: 92.859
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=1tMYCoZB0lE
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=P_VWeMzjoEY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\P_VWeMzjoEY.mp4
+INFO:root:TRIM start_time: 0.69, end_time: 1.828
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=W_IPtdsIUOo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\W_IPtdsIUOo.mp4
+INFO:root:TRIM start_time: 3.103, end_time: 3.57
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=W_IPtdsIUOo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\W_IPtdsIUOo.mp4
+INFO:root:TRIM start_time: 8.308, end_time: 8.775
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1E8k8gI_xYk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1E8k8gI_xYk.mp4
+INFO:root:TRIM start_time: 10.244, end_time: 13.08
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1E8k8gI_xYk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1E8k8gI_xYk.mp4
+INFO:root:TRIM start_time: 74.208, end_time: 76.543
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mBfWiymT0N8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mBfWiymT0N8.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.88
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Cv5avR9nEhg.mp4
+INFO:root:TRIM start_time: 751.2, end_time: 752.44
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Cv5avR9nEhg.mp4
+INFO:root:TRIM start_time: 752.16, end_time: 754.64
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Cv5avR9nEhg.mp4
+INFO:root:TRIM start_time: 754.16, end_time: 756.88
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Cv5avR9nEhg.mp4
+INFO:root:TRIM start_time: 755.56, end_time: 756.52
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Cv5avR9nEhg.mp4
+INFO:root:TRIM start_time: 757.12, end_time: 758.16
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=LqJM7wcUixQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\LqJM7wcUixQ.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.336
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=_yqDuSdl28Q
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=_yqDuSdl28Q
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=c0tloO5tJUY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\c0tloO5tJUY.mp4
+INFO:root:TRIM start_time: 36.64, end_time: 41.72
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rkQZQhloXuE.mp4
+INFO:root:TRIM start_time: 157.991, end_time: 160.994
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rkQZQhloXuE.mp4
+INFO:root:TRIM start_time: 160.994, end_time: 163.663
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rkQZQhloXuE.mp4
+INFO:root:TRIM start_time: 262.829, end_time: 265.165
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\rkQZQhloXuE.mp4
+INFO:root:TRIM start_time: 265.298, end_time: 268.235
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Vintf-DLWq0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Vintf-DLWq0.mp4
+INFO:root:TRIM start_time: 8.3, end_time: 10.007
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Vintf-DLWq0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Vintf-DLWq0.mp4
+INFO:root:TRIM start_time: 11.045, end_time: 12.685
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=lgNwgl10VSg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\lgNwgl10VSg.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.502
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=uPKOwziViaw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\uPKOwziViaw.mp4
+INFO:root:TRIM start_time: 460.026, end_time: 463.897
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=iHR2uV-Uxc8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\iHR2uV-Uxc8.mp4
+INFO:root:TRIM start_time: 137.137, end_time: 138.772
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=iHR2uV-Uxc8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\iHR2uV-Uxc8.mp4
+INFO:root:TRIM start_time: 325.859, end_time: 326.593
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZgYdwk&t=4s.mp4
+INFO:root:TRIM start_time: 60.2, end_time: 64.12
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZgYdwk&t=4s.mp4
+INFO:root:TRIM start_time: 96.72, end_time: 100.2
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZgYdwk&t=4s.mp4
+INFO:root:TRIM start_time: 219.2, end_time: 221.6
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=B2MuRVFAn6w
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\B2MuRVFAn6w.mp4
+INFO:root:TRIM start_time: 106.59, end_time: 109.565
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=B2MuRVFAn6w
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\B2MuRVFAn6w.mp4
+INFO:root:TRIM start_time: 113.666, end_time: 114.993
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KHJjHjG-8JU&t=109s
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-8JU&t=109s.mp4
+ERROR:root:start_time: 108.976, end_time: 112.312
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KHJjHjG-8JU&t=109s
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-8JU&t=109s.mp4
+ERROR:root:start_time: 112.98, end_time: 116.316
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=6jjPIk3O0q4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\6jjPIk3O0q4.mp4
+INFO:root:TRIM start_time: 20.988, end_time: 25.959
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=6jjPIk3O0q4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\6jjPIk3O0q4.mp4
+INFO:root:TRIM start_time: 407.54, end_time: 411.478
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TSecJl0vg8Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TSecJl0vg8Q.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.25
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=owXsDIKq4lk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\owXsDIKq4lk.mp4
+INFO:root:TRIM start_time: 28.195, end_time: 31.064
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=owXsDIKq4lk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\owXsDIKq4lk.mp4
+INFO:root:TRIM start_time: 31.164, end_time: 33.5
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=O5_4x8p5t4U
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\O5_4x8p5t4U.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.669
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wbScz3a4NLk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wbScz3a4NLk.mp4
+INFO:root:TRIM start_time: 1.001, end_time: 4.338
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wbScz3a4NLk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wbScz3a4NLk.mp4
+INFO:root:TRIM start_time: 4.338, end_time: 7.674
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9RE2NLd_Sgw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9RE2NLd_Sgw.mp4
+INFO:root:TRIM start_time: 14.615, end_time: 20.754
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9RE2NLd_Sgw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9RE2NLd_Sgw.mp4
+INFO:root:TRIM start_time: 58.158, end_time: 64.498
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=02NAI-ykpWk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\02NAI-ykpWk.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 5.84
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WxY7E9P46DM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WxY7E9P46DM.mp4
+INFO:root:TRIM start_time: 300.73, end_time: 306.185
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WxY7E9P46DM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WxY7E9P46DM.mp4
+INFO:root:TRIM start_time: 343.051, end_time: 349.514
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xEw0KrlJA6Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xEw0KrlJA6Q.mp4
+INFO:root:TRIM start_time: 22.68, end_time: 25.84
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xEw0KrlJA6Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xEw0KrlJA6Q.mp4
+INFO:root:TRIM start_time: 22.8, end_time: 25.96
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xEw0KrlJA6Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xEw0KrlJA6Q.mp4
+INFO:root:TRIM start_time: 23.84, end_time: 24.76
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xEw0KrlJA6Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xEw0KrlJA6Q.mp4
+INFO:root:TRIM start_time: 48.08, end_time: 53.28
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3TyhGI2gmJE
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3TyhGI2gmJE
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3TyhGI2gmJE
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=3TyhGI2gmJE
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Eq6SnaimpzQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Eq6SnaimpzQ.mp4
+INFO:root:TRIM start_time: 46.48, end_time: 49.716
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Eq6SnaimpzQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Eq6SnaimpzQ.mp4
+INFO:root:TRIM start_time: 240.907, end_time: 244.077
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FNt4N8WFuVY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FNt4N8WFuVY.mp4
+INFO:root:TRIM start_time: 31.759, end_time: 39.971
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FNt4N8WFuVY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FNt4N8WFuVY.mp4
+INFO:root:TRIM start_time: 164.074, end_time: 168.557
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FNt4N8WFuVY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FNt4N8WFuVY.mp4
+INFO:root:TRIM start_time: 409.765, end_time: 416.092
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=25ymRY7hbjs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\25ymRY7hbjs.mp4
+INFO:root:TRIM start_time: 100.934, end_time: 105.305
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=25ymRY7hbjs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\25ymRY7hbjs.mp4
+INFO:root:TRIM start_time: 176.643, end_time: 180.347
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ckNZidesfIA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ckNZidesfIA.mp4
+INFO:root:TRIM start_time: 52.419, end_time: 54.555
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ckNZidesfIA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ckNZidesfIA.mp4
+INFO:root:TRIM start_time: 119.786, end_time: 121.822
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ckNZidesfIA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ckNZidesfIA.mp4
+INFO:root:TRIM start_time: 129.863, end_time: 131.765
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=I5uzRKXGSgc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\I5uzRKXGSgc.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.76
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=R_ES8RZua1g
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\R_ES8RZua1g.mp4
+INFO:root:TRIM start_time: 316.367, end_time: 318.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=juHCHcRrGew
+WARNING:py.warnings:C:\Users\user\anaconda3\envs\cudatry\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:130: UserWarning: Warning: in file C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\juHCHcRrGew.mp4, 2764800 bytes wanted but 0 bytes read,at frame 115/116, at time 3.84/3.85 sec. Using the last valid frame instead.
+  UserWarning)
+
+WARNING:py.warnings:C:\Users\user\anaconda3\envs\cudatry\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:130: UserWarning: Warning: in file C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\juHCHcRrGew.mp4, 2764800 bytes wanted but 0 bytes read,at frame 116/116, at time 3.87/3.85 sec. Using the last valid frame instead.
+  UserWarning)
+
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\juHCHcRrGew.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.871
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=thdb-I-H9kE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\thdb-I-H9kE.mp4
+INFO:root:TRIM start_time: 14.12, end_time: 17.36
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=thdb-I-H9kE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\thdb-I-H9kE.mp4
+INFO:root:TRIM start_time: 24.64, end_time: 28.44
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xhXw38OKfRQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xhXw38OKfRQ.mp4
+INFO:root:TRIM start_time: 56.367, end_time: 60.033
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xhXw38OKfRQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xhXw38OKfRQ.mp4
+INFO:root:TRIM start_time: 60.467, end_time: 62.367
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xhXw38OKfRQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xhXw38OKfRQ.mp4
+INFO:root:TRIM start_time: 62.933, end_time: 66.2
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xhXw38OKfRQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xhXw38OKfRQ.mp4
+INFO:root:TRIM start_time: 66.667, end_time: 68.867
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TDoqoJDX280
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TDoqoJDX280.mp4
+INFO:root:TRIM start_time: 65.799, end_time: 71.238
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=6gU3Ln98sWA
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=3RB642y8sgo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\3RB642y8sgo.mp4
+INFO:root:TRIM start_time: 142.361, end_time: 148.12
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=3RB642y8sgo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\3RB642y8sgo.mp4
+INFO:root:TRIM start_time: 449.983, end_time: 458.186
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=WGfiiDgrq1I
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WGfiiDgrq1I.mp4
+INFO:root:TRIM start_time: 149.116, end_time: 153.954
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UoITyyziLOw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UoITyyziLOw.mp4
+INFO:root:TRIM start_time: 151.752, end_time: 154.721
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yDNcxRM9Nf8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yDNcxRM9Nf8.mp4
+INFO:root:TRIM start_time: 4.004, end_time: 7.04
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yDNcxRM9Nf8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yDNcxRM9Nf8.mp4
+INFO:root:TRIM start_time: 7.04, end_time: 9.409
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=yDNcxRM9Nf8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\yDNcxRM9Nf8.mp4
+INFO:root:TRIM start_time: 9.409, end_time: 11.845
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=TwkGS9TjUX8&t=21s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\TjUX8&t=21s.mp4
+INFO:root:TRIM start_time: 504.804, end_time: 510.744
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=gRIcq644uAQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\gRIcq644uAQ.mp4
+INFO:root:TRIM start_time: 69.536, end_time: 73.674
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=gRIcq644uAQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\gRIcq644uAQ.mp4
+INFO:root:TRIM start_time: 365.031, end_time: 368.034
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=gRIcq644uAQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\gRIcq644uAQ.mp4
+INFO:root:TRIM start_time: 368.101, end_time: 371.371
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=q_p38s5JsXo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\q_p38s5JsXo.mp4
+INFO:root:TRIM start_time: 179.92, end_time: 183.32
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=q_p38s5JsXo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\q_p38s5JsXo.mp4
+INFO:root:TRIM start_time: 236.04, end_time: 240.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=mCG3gsQfiBA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\mCG3gsQfiBA.mp4
+INFO:root:TRIM start_time: 15.0, end_time: 17.567
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=A4_QxEDNDGE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\A4_QxEDNDGE.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 1.768
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=nvaS2J5mcEk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\nvaS2J5mcEk.mp4
+INFO:root:TRIM start_time: 58.992, end_time: 60.961
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=nvaS2J5mcEk
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\nvaS2J5mcEk.mp4
+INFO:root:TRIM start_time: 267.968, end_time: 269.936
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=k8GUS4fpkO4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\k8GUS4fpkO4.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.533
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=K1EAxRE0ZaM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\K1EAxRE0ZaM.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.9
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=P3tBJESDamE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\P3tBJESDamE.mp4
+INFO:root:TRIM start_time: 326.493, end_time: 331.915
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=hwa_U71nr74
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=MIPvaUKFA4c
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\MIPvaUKFA4c.mp4
+INFO:root:TRIM start_time: 5.172, end_time: 8.675
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=5Dr7V1fbTFU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\5Dr7V1fbTFU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.47
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Kwvw-K6GYW8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Kwvw-K6GYW8.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.669
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=zUym5LrN7_I
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=zUym5LrN7_I
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=GvhBBWD4PLo
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=GvhBBWD4PLo
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=SiBwCURu9fQ
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\SiBwCURu9fQ.mp4 downloaded
+INFO:root:YouTube Downloading time: 11.051580429077148
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\SiBwCURu9fQ.mp4
+INFO:root:TRIM start_time: 0.467, end_time: 1.902
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=537MWOtCl78
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\537MWOtCl78.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.268
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=0Bj00OLMsjQ
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fNg_sJ9f8EI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fNg_sJ9f8EI.mp4
+INFO:root:TRIM start_time: 90.924, end_time: 94.895
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fNg_sJ9f8EI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fNg_sJ9f8EI.mp4
+INFO:root:TRIM start_time: 115.282, end_time: 119.252
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fNg_sJ9f8EI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fNg_sJ9f8EI.mp4
+INFO:root:TRIM start_time: 180.514, end_time: 184.484
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=fNg_sJ9f8EI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\fNg_sJ9f8EI.mp4
+INFO:root:TRIM start_time: 323.957, end_time: 328.929
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=Mr3gdFh3A28
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=3-GrhsVs830
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=MRhaDlslxF8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\MRhaDlslxF8.mp4
+INFO:root:TRIM start_time: 40.09, end_time: 42.098
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KTURNRi-wy0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KTURNRi-wy0.mp4
+INFO:root:TRIM start_time: 39.606, end_time: 42.342
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KTURNRi-wy0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KTURNRi-wy0.mp4
+INFO:root:TRIM start_time: 45.212, end_time: 47.648
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KTURNRi-wy0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KTURNRi-wy0.mp4
+INFO:root:TRIM start_time: 48.749, end_time: 50.384
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=QfVrSA3yrSc
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=qATuIbBufYQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\qATuIbBufYQ.mp4
+INFO:root:TRIM start_time: 24.791, end_time: 27.16
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=pnzIZR8wTV8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\pnzIZR8wTV8.mp4
+INFO:root:TRIM start_time: 106.267, end_time: 108.267
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=pnzIZR8wTV8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\pnzIZR8wTV8.mp4
+INFO:root:TRIM start_time: 108.267, end_time: 109.533
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=r9Rten33zC8
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OgcjUatW9LA
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2fxtI59FmNs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2fxtI59FmNs.mp4
+INFO:root:TRIM start_time: 56.056, end_time: 59.226
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2fxtI59FmNs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2fxtI59FmNs.mp4
+INFO:root:TRIM start_time: 176.343, end_time: 179.946
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2fxtI59FmNs
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2fxtI59FmNs.mp4
+INFO:root:TRIM start_time: 180.18, end_time: 184.017
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UlRyKsP78qQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UlRyKsP78qQ.mp4
+INFO:root:TRIM start_time: 17.818, end_time: 19.786
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UlRyKsP78qQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UlRyKsP78qQ.mp4
+INFO:root:TRIM start_time: 27.194, end_time: 28.695
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QPqvOMdfL0k
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=otTiJBUrJmI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\otTiJBUrJmI.mp4
+INFO:root:TRIM start_time: 10.644, end_time: 14.181
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=otTiJBUrJmI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\otTiJBUrJmI.mp4
+INFO:root:TRIM start_time: 17.551, end_time: 19.72
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=otTiJBUrJmI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\otTiJBUrJmI.mp4
+INFO:root:TRIM start_time: 102.903, end_time: 105.772
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=2YRASxmXLD0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sUC-XDC5TvA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sUC-XDC5TvA.mp4
+INFO:root:TRIM start_time: 29.029, end_time: 31.198
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sUC-XDC5TvA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sUC-XDC5TvA.mp4
+INFO:root:TRIM start_time: 43.777, end_time: 46.28
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sUC-XDC5TvA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sUC-XDC5TvA.mp4
+INFO:root:TRIM start_time: 51.018, end_time: 52.786
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=V27JKBneHgk
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=c49qWjgFtRI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\c49qWjgFtRI.mp4
+INFO:root:TRIM start_time: 402.133, end_time: 404.133
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=c49qWjgFtRI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\c49qWjgFtRI.mp4
+INFO:root:TRIM start_time: 405.133, end_time: 406.8
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=yawcLQIhQiE
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9p6eojPZWu4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9p6eojPZWu4.mp4
+INFO:root:TRIM start_time: 49.95, end_time: 51.985
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9p6eojPZWu4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9p6eojPZWu4.mp4
+INFO:root:TRIM start_time: 53.553, end_time: 55.722
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=PgrN3IWv91k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\PgrN3IWv91k.mp4
+INFO:root:TRIM start_time: 189.956, end_time: 194.494
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=c3j44FTrL9c
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=99noLwmY2Bc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\99noLwmY2Bc.mp4
+INFO:root:TRIM start_time: 390.624, end_time: 394.594
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FjFpYI&t=1s.mp4
+INFO:root:TRIM start_time: 66.4, end_time: 69.57
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FjFpYI&t=1s.mp4
+INFO:root:TRIM start_time: 139.172, end_time: 139.906
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FjFpYI&t=1s.mp4
+INFO:root:TRIM start_time: 140.44, end_time: 141.608
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FjFpYI&t=1s.mp4
+INFO:root:TRIM start_time: 535.301, end_time: 536.803
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FjFpYI&t=1s.mp4
+INFO:root:TRIM start_time: 536.903, end_time: 538.104
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-QZYGYEZlQg
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-QZYGYEZlQg.mp4
+ERROR:root:start_time: 17.3, end_time: 19.6
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=kwCfdkhc37c
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\kwCfdkhc37c.mp4
+INFO:root:TRIM start_time: 37.6, end_time: 39.2
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wqDOKXEx24M
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wqDOKXEx24M.mp4
+INFO:root:TRIM start_time: 18.965, end_time: 21.561
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=wqDOKXEx24M
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\wqDOKXEx24M.mp4
+INFO:root:TRIM start_time: 22.524, end_time: 24.45
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=r2y_GxB5PZo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\r2y_GxB5PZo.mp4
+INFO:root:TRIM start_time: 2.0, end_time: 5.667
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xbVVThaez2g
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xbVVThaez2g.mp4
+INFO:root:TRIM start_time: 9.433, end_time: 11.367
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HBQaI1ZG-LU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HBQaI1ZG-LU.mp4
+INFO:root:TRIM start_time: 29.129, end_time: 32.733
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HBQaI1ZG-LU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\HBQaI1ZG-LU.mp4
+INFO:root:TRIM start_time: 32.966, end_time: 37.07
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=exk-qIRNw7Y
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\exk-qIRNw7Y.mp4
+INFO:root:TRIM start_time: 60.46, end_time: 62.195
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=exk-qIRNw7Y
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\exk-qIRNw7Y.mp4
+INFO:root:TRIM start_time: 78.412, end_time: 80.38
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xIIGn6cn8BI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xIIGn6cn8BI.mp4
+INFO:root:TRIM start_time: 8.942, end_time: 10.777
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=xIIGn6cn8BI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\xIIGn6cn8BI.mp4
+INFO:root:TRIM start_time: 162.796, end_time: 165.265
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=BeOwDK5YI0U
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=F4cpgfDA0ds
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=0UzEF7ru0sQ
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=bXyG4iebEBo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\bXyG4iebEBo.mp4
+INFO:root:TRIM start_time: 139.239, end_time: 142.376
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=6Mmgrtw_Zro
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\6Mmgrtw_Zro.mp4
+INFO:root:TRIM start_time: 36.731, end_time: 38.303
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=jGsh6zd3eUQ
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=lkeLvhNoTxg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\lkeLvhNoTxg.mp4
+INFO:root:TRIM start_time: 102.135, end_time: 105.772
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=EtFqAENMWN0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FBimL8-ND3E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FBimL8-ND3E.mp4
+INFO:root:TRIM start_time: 61.795, end_time: 63.263
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FBimL8-ND3E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FBimL8-ND3E.mp4
+INFO:root:TRIM start_time: 64.932, end_time: 67.701
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=hhgODkjRmcg
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=SJAhRxI7i9c
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\SJAhRxI7i9c.mp4
+INFO:root:TRIM start_time: 107.72, end_time: 110.156
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=-msMbTjOPyk
+ERROR:root:Video Trim error
+ERROR:root:origin name: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\-msMbTjOPyk.mp4
+ERROR:root:start_time: 6.896, end_time: 7.632
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=kCT-we5dguI
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Lk2Vws8homw
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=ktkz1BUzs48
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ktkz1BUzs48.mp4
+INFO:root:TRIM start_time: 61.094, end_time: 63.196
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=uE3IDWh0xnA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\uE3IDWh0xnA.mp4
+INFO:root:TRIM start_time: 30.3, end_time: 31.733
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=uE3IDWh0xnA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\uE3IDWh0xnA.mp4
+INFO:root:TRIM start_time: 42.6, end_time: 44.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=uE3IDWh0xnA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\uE3IDWh0xnA.mp4
+INFO:root:TRIM start_time: 45.167, end_time: 47.433
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=2GhoeP8Gcyk
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RMUydgQr9TE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RMUydgQr9TE.mp4
+INFO:root:TRIM start_time: 22.489, end_time: 24.758
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RMUydgQr9TE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RMUydgQr9TE.mp4
+INFO:root:TRIM start_time: 26.66, end_time: 28.128
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RMUydgQr9TE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RMUydgQr9TE.mp4
+INFO:root:TRIM start_time: 29.162, end_time: 30.631
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=RMUydgQr9TE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\RMUydgQr9TE.mp4
+INFO:root:TRIM start_time: 32.399, end_time: 33.8
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=VoHLEG8FIH4
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=mBNbzPNTVqk
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=g5KHrQrZRmY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\g5KHrQrZRmY.mp4
+INFO:root:TRIM start_time: 84.267, end_time: 85.233
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=uKVcATFm9Sg
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\uKVcATFm9Sg.mp4
+INFO:root:TRIM start_time: 27.294, end_time: 30.23
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=koMZVbqiXf4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\koMZVbqiXf4.mp4
+INFO:root:TRIM start_time: 100.233, end_time: 103.837
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=koMZVbqiXf4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\koMZVbqiXf4.mp4
+INFO:root:TRIM start_time: 155.956, end_time: 159.126
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=koMZVbqiXf4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\koMZVbqiXf4.mp4
+INFO:root:TRIM start_time: 167.868, end_time: 171.338
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GOczM9jk2xY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GOczM9jk2xY.mp4
+INFO:root:TRIM start_time: 85.533, end_time: 87.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GOczM9jk2xY
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GOczM9jk2xY.mp4
+INFO:root:TRIM start_time: 87.5, end_time: 89.533
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0HvgswZfDGI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0HvgswZfDGI.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.333
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=x28Kk_NjEGU
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=x28Kk_NjEGU
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=1b2TXYk0jbM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1b2TXYk0jbM.mp4
+INFO:root:TRIM start_time: 12.479, end_time: 13.28
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Nc7rSopCpI8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Nc7rSopCpI8.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.524
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=N4n5CDpyX3w
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\N4n5CDpyX3w.mp4
+INFO:root:TRIM start_time: 54.154, end_time: 56.957
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=N4n5CDpyX3w
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\N4n5CDpyX3w.mp4
+INFO:root:TRIM start_time: 57.524, end_time: 60.327
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=7sZLZpm4n2E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7sZLZpm4n2E.mp4
+INFO:root:TRIM start_time: 43.777, end_time: 45.779
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=7sZLZpm4n2E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7sZLZpm4n2E.mp4
+INFO:root:TRIM start_time: 46.48, end_time: 48.849
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=7sZLZpm4n2E
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7sZLZpm4n2E.mp4
+INFO:root:TRIM start_time: 49.416, end_time: 51.685
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=WdFPBiAUm2k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\WdFPBiAUm2k.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.47
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=7m6N78E-5uE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7m6N78E-5uE.mp4
+INFO:root:TRIM start_time: 133.166, end_time: 137.804
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=kZuJalsv_z0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\kZuJalsv_z0.mp4
+INFO:root:TRIM start_time: 32.633, end_time: 35.9
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=pD4QabDQr6M
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=pD4QabDQr6M
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Pt_L8OV40Bc
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=si01coqVYiA
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=mylSeGckZJs
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 12.446, end_time: 14.047
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 13.647, end_time: 16.55
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 19.52, end_time: 23.757
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 24.057, end_time: 24.858
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 111.278, end_time: 112.212
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 112.145, end_time: 113.447
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0bIF7jh6lnE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0bIF7jh6lnE.mp4
+INFO:root:TRIM start_time: 112.913, end_time: 114.681
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=S_LEeTt2McM
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=8ppn1CQpBKE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\8ppn1CQpBKE.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.87
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=MyDb3_nPts4
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=g59_3vr_NT0
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\g59_3vr_NT0.mp4
+INFO:root:TRIM start_time: 169.033, end_time: 172.1
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9g-hioQapYE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9g-hioQapYE.mp4
+INFO:root:TRIM start_time: 339.8, end_time: 341.167
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9g-hioQapYE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9g-hioQapYE.mp4
+INFO:root:TRIM start_time: 358.9, end_time: 360.467
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9g-hioQapYE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9g-hioQapYE.mp4
+INFO:root:TRIM start_time: 440.633, end_time: 442.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9g-hioQapYE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9g-hioQapYE.mp4
+INFO:root:TRIM start_time: 452.667, end_time: 453.867
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9g-hioQapYE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9g-hioQapYE.mp4
+INFO:root:TRIM start_time: 612.3, end_time: 614.833
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jC6sHiZBEyI
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=eeHS78JyN70
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\eeHS78JyN70.mp4
+INFO:root:TRIM start_time: 216.183, end_time: 218.285
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=eeHS78JyN70
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\eeHS78JyN70.mp4
+INFO:root:TRIM start_time: 219.286, end_time: 221.955
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=lSM2XoWrTUY
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=sxeWeiCoM7k
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sxeWeiCoM7k.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.2
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=BEKUHzwnVO8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\BEKUHzwnVO8.mp4
+INFO:root:TRIM start_time: 224.758, end_time: 229.162
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=BEKUHzwnVO8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\BEKUHzwnVO8.mp4
+INFO:root:TRIM start_time: 356.723, end_time: 362.696
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=BEKUHzwnVO8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\BEKUHzwnVO8.mp4
+INFO:root:TRIM start_time: 394.828, end_time: 397.163
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=BEKUHzwnVO8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\BEKUHzwnVO8.mp4
+INFO:root:TRIM start_time: 397.831, end_time: 400.166
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iDWntsY_rZM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iDWntsY_rZM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iDWntsY_rZM
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iDWntsY_rZM
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=aGtIHKEdCds
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\aGtIHKEdCds.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.733
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vhJU&t=862s.mp4
+INFO:root:TRIM start_time: 393.093, end_time: 397.764
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vhJU&t=862s.mp4
+INFO:root:TRIM start_time: 398.765, end_time: 400.433
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\vhJU&t=862s.mp4
+INFO:root:TRIM start_time: 779.812, end_time: 788.821
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=bX1eJjB3nyA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\bX1eJjB3nyA.mp4
+INFO:root:TRIM start_time: 149.549, end_time: 152.486
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Gj5_x1Xk49Q
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=QBtof6T2N0Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QBtof6T2N0Q.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.333
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0v4Y9WGhES8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0v4Y9WGhES8.mp4
+INFO:root:TRIM start_time: 90.19, end_time: 94.928
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=0v4Y9WGhES8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0v4Y9WGhES8.mp4
+INFO:root:TRIM start_time: 95.896, end_time: 97.13
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=1lifyGwZN7g
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\1lifyGwZN7g.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.68
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=ZyL9f_qoGug
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZyL9f_qoGug.mp4 downloaded
+INFO:root:YouTube Downloading time: 10.215336084365845
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\ZyL9f_qoGug.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.769
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=jknOnIhAbNo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\jknOnIhAbNo.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.769
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=Ddd2ZZNFhVI
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ddd2ZZNFhVI.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.17
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=eMZb5qFzObg
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=IAYDcpRyf1Q
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\IAYDcpRyf1Q.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.08
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=JYF-AfMbUNw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\JYF-AfMbUNw.mp4
+INFO:root:TRIM start_time: 96.33, end_time: 99.633
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=JYF-AfMbUNw
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\JYF-AfMbUNw.mp4
+INFO:root:TRIM start_time: 260.694, end_time: 263.663
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=XdA0TlfPB48
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\XdA0TlfPB48.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 5.668
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UjiCWH8PSvM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UjiCWH8PSvM.mp4
+INFO:root:TRIM start_time: 54.555, end_time: 56.657
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=VcRx3U-HpTE
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VcRx3U-HpTE.mp4 downloaded
+INFO:root:YouTube Downloading time: 636.1233577728271
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\VcRx3U-HpTE.mp4
+INFO:root:TRIM start_time: 235.416, end_time: 239.5
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=lBdL0qoRtPI
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=QwxSYpnuATA
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QwxSYpnuATA.mp4
+INFO:root:TRIM start_time: 17.084, end_time: 19.152
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=rKWxvDjIcvg
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=sQELZPmche8
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\sQELZPmche8.mp4
+INFO:root:TRIM start_time: 44.19, end_time: 46.194
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=afwqCG7GmrQ
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\afwqCG7GmrQ.mp4
+INFO:root:TRIM start_time: 22.856, end_time: 24.591
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2VB3WN8adyM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2VB3WN8adyM.mp4
+INFO:root:TRIM start_time: 62.958, end_time: 66.5
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2VB3WN8adyM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2VB3WN8adyM.mp4
+INFO:root:TRIM start_time: 75.458, end_time: 79.0
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2VB3WN8adyM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2VB3WN8adyM.mp4
+INFO:root:TRIM start_time: 192.833, end_time: 198.583
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2VB3WN8adyM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2VB3WN8adyM.mp4
+INFO:root:TRIM start_time: 213.0, end_time: 216.208
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2VB3WN8adyM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2VB3WN8adyM.mp4
+INFO:root:TRIM start_time: 313.083, end_time: 316.208
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=DtTVnZO0kNI
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=J9kZS0VdY_A&t=8s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0VdY_A&t=8s.mp4
+INFO:root:TRIM start_time: 301.701, end_time: 307.007
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=J9kZS0VdY_A&t=8s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\0VdY_A&t=8s.mp4
+INFO:root:TRIM start_time: 437.037, end_time: 441.474
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ha0vr4&t=1s.mp4
+INFO:root:TRIM start_time: 14.815, end_time: 16.817
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ha0vr4&t=1s.mp4
+INFO:root:TRIM start_time: 48.882, end_time: 53.553
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Ha0vr4&t=1s.mp4
+INFO:root:TRIM start_time: 577.911, end_time: 582.582
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=QlZnUdm8KAU
+WARNING:py.warnings:C:\Users\user\anaconda3\envs\cudatry\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:130: UserWarning: Warning: in file C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QlZnUdm8KAU.mp4, 2764800 bytes wanted but 0 bytes read,at frame 73/74, at time 2.44/2.44 sec. Using the last valid frame instead.
+  UserWarning)
+
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\QlZnUdm8KAU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.469
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=7yKNI0jlXMs
+INFO:root:YouTube origin video C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7yKNI0jlXMs.mp4 downloaded
+INFO:root:YouTube Downloading time: 8.002485752105713
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\7yKNI0jlXMs.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.8
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=hKogDJd0yc4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\hKogDJd0yc4.mp4
+INFO:root:TRIM start_time: 135.369, end_time: 138.372
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=hKogDJd0yc4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\hKogDJd0yc4.mp4
+INFO:root:TRIM start_time: 139.039, end_time: 141.041
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=BOKcZa6mugU
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\BOKcZa6mugU.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.76
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=KGcYDLCx3bE
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\KGcYDLCx3bE.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 2.84
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GmxS5HkNc3o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GmxS5HkNc3o.mp4
+INFO:root:TRIM start_time: 46.724, end_time: 48.379
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GmxS5HkNc3o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GmxS5HkNc3o.mp4
+INFO:root:TRIM start_time: 48.448, end_time: 49.103
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GmxS5HkNc3o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GmxS5HkNc3o.mp4
+INFO:root:TRIM start_time: 49.172, end_time: 50.448
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=GmxS5HkNc3o
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\GmxS5HkNc3o.mp4
+INFO:root:TRIM start_time: 142.897, end_time: 146.655
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FRQbKDZeRzM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FRQbKDZeRzM.mp4
+INFO:root:TRIM start_time: 370.136, end_time: 373.406
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=FRQbKDZeRzM
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\FRQbKDZeRzM.mp4
+INFO:root:TRIM start_time: 373.773, end_time: 377.043
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=He0k3ddd67A
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\He0k3ddd67A.mp4
+INFO:root:TRIM start_time: 403.5, end_time: 406.208
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=L6hHRIQzWBo
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=Qvn5RGyb0po
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\Qvn5RGyb0po.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 4.274
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=2ofPs_uTel4
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\2ofPs_uTel4.mp4
+INFO:root:TRIM start_time: 126.251, end_time: 130.088
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\EDI&t=1043s.mp4
+INFO:root:TRIM start_time: 501.234, end_time: 507.574
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\EDI&t=1043s.mp4
+INFO:root:TRIM start_time: 893.493, end_time: 895.828
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\EDI&t=1043s.mp4
+INFO:root:TRIM start_time: 1162.762, end_time: 1165.097
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9bosgmeAAuo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9bosgmeAAuo.mp4
+INFO:root:TRIM start_time: 229.93, end_time: 232.599
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=9bosgmeAAuo
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\9bosgmeAAuo.mp4
+INFO:root:TRIM start_time: 234.601, end_time: 237.37
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=Tlr2V74Tr_E
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=cxXEULq9Jpc
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\cxXEULq9Jpc.mp4
+INFO:root:TRIM start_time: 673.239, end_time: 675.909
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is www.youtube.com/watch?v=URb48i4X52U
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\URb48i4X52U.mp4
+INFO:root:TRIM start_time: 0.0, end_time: 3.24
+ERROR:root:Youtube origin video already exist
+ERROR:root:url is https://www.youtube.com/watch?v=UmcAkb54I4c
+INFO:root:video trimmed, video: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\origin\UmcAkb54I4c.mp4
+INFO:root:TRIM start_time: 34.735, end_time: 36.403
+INFO:root:running time: 1316.977607011795

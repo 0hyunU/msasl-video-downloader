@@ -1,0 +1,1579 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=J7tP98oDxqE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=J7tP98oDxqE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=htsdwxJ-fTo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=htsdwxJ-fTo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=htsdwxJ-fTo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=htsdwxJ-fTo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=htsdwxJ-fTo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=htsdwxJ-fTo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=K8c-np9zNT8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=K8c-np9zNT8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=K8c-np9zNT8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=K8c-np9zNT8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=K8c-np9zNT8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=K8c-np9zNT8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=K8c-np9zNT8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=K8c-np9zNT8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cgh1DXAQBuI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cgh1DXAQBuI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cgh1DXAQBuI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cgh1DXAQBuI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7YYB3BEoksc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7YYB3BEoksc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k6cNmM9WgUs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k6cNmM9WgUs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pkzfT9cYvH0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pkzfT9cYvH0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=shPBfkIYYpU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=shPBfkIYYpU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=shPBfkIYYpU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=shPBfkIYYpU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RWYus9H4YrQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RWYus9H4YrQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RWYus9H4YrQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RWYus9H4YrQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XjWSfh50kAU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XjWSfh50kAU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2SkeRyJnT0k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2SkeRyJnT0k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2SkeRyJnT0k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2SkeRyJnT0k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bqB9rqJ0w7k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=bqB9rqJ0w7k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sErq0TJMKEo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sErq0TJMKEo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XhsACc1jw0s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XhsACc1jw0s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=73icFhednQU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=73icFhednQU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=73icFhednQU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=73icFhednQU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=73icFhednQU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=73icFhednQU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=73icFhednQU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=73icFhednQU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fUlWG-qGFis HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fUlWG-qGFis is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=I07uu8vnJYs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=I07uu8vnJYs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-_0i3qAEM1E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-_0i3qAEM1E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-_0i3qAEM1E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-_0i3qAEM1E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-_0i3qAEM1E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-_0i3qAEM1E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ax2UGtA8h3E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ax2UGtA8h3E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=eXpXg4q-qEQ&t=170s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=eXpXg4q-qEQ&t=170s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QTbj2GM5ohs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QTbj2GM5ohs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QTbj2GM5ohs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QTbj2GM5ohs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=my4mxg6lXYQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=my4mxg6lXYQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=my4mxg6lXYQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=my4mxg6lXYQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=LPyvlWpL-xk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=LPyvlWpL-xk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=27djXV1qAss HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=27djXV1qAss is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mfrGIHTnKvI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mfrGIHTnKvI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mfrGIHTnKvI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mfrGIHTnKvI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mfrGIHTnKvI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mfrGIHTnKvI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mfrGIHTnKvI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mfrGIHTnKvI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mfrGIHTnKvI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mfrGIHTnKvI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TwkGS9TjUX8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TwkGS9TjUX8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=f7COHRpmVKA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=f7COHRpmVKA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUvhi7Lox14 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUvhi7Lox14 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUvhi7Lox14 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUvhi7Lox14 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUvhi7Lox14 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUvhi7Lox14 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUvhi7Lox14 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUvhi7Lox14 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rTykxVBxc00 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rTykxVBxc00 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=SiTBL7DYzZQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=SiTBL7DYzZQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hqF01cx9jYs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hqF01cx9jYs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=lSxAVvE9sPc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=lSxAVvE9sPc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=lSxAVvE9sPc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=lSxAVvE9sPc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=lSxAVvE9sPc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=lSxAVvE9sPc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=lSxAVvE9sPc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=lSxAVvE9sPc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ZJC6RCmgUGI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ZJC6RCmgUGI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mCjHYreiZ24 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mCjHYreiZ24 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mCjHYreiZ24 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mCjHYreiZ24 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ZevaHrDogo8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ZevaHrDogo8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ZevaHrDogo8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ZevaHrDogo8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=CR1cRZi1jtQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=CR1cRZi1jtQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=6XcxbPfP5YQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=6XcxbPfP5YQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=_8t-Avfk310 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=_8t-Avfk310 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3zoqSvF0Z2A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3zoqSvF0Z2A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OsSj-kl579A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OsSj-kl579A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sKSFluFAcio HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sKSFluFAcio is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fzroOSp32S4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fzroOSp32S4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uPWzbFvXcuw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uPWzbFvXcuw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=K4lo0NZDlH8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=K4lo0NZDlH8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=kK1ms78-_mc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=kK1ms78-_mc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=jmlYtEoHKiY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=jmlYtEoHKiY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=5sMmseav-dU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=5sMmseav-dU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QxOYnMWCVhM&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QxOYnMWCVhM&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QxOYnMWCVhM&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vE4RFGPqGqY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vE4RFGPqGqY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=8hBFgtJOZaE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=8hBFgtJOZaE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=8hBFgtJOZaE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=8hBFgtJOZaE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p36hZJQpLoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p36hZJQpLoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p36hZJQpLoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p36hZJQpLoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p36hZJQpLoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p36hZJQpLoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Tckw40A23Bc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Tckw40A23Bc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Tckw40A23Bc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Tckw40A23Bc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=tO6x4rdDNXk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=tO6x4rdDNXk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sRFEk6j4w_8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sRFEk6j4w_8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WuwIz-vDMUc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WuwIz-vDMUc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wkxCnCMo7Mc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wkxCnCMo7Mc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TnJQtTYVTtg&t=242s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TnJQtTYVTtg&t=242s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TnJQtTYVTtg&t=242s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TnJQtTYVTtg&t=242s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TnJQtTYVTtg&t=242s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k0T-yY_HrEQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k0T-yY_HrEQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k0T-yY_HrEQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k0T-yY_HrEQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k0T-yY_HrEQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k0T-yY_HrEQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k0T-yY_HrEQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k0T-yY_HrEQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k0T-yY_HrEQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k0T-yY_HrEQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pc0-gVEETVg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pc0-gVEETVg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yAWM8TKoSuY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yAWM8TKoSuY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4iWzK-kKmIU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4iWzK-kKmIU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4iWzK-kKmIU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4iWzK-kKmIU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9LlyuneZA0Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9LlyuneZA0Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=dbzKXsyAcvY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=dbzKXsyAcvY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=dbzKXsyAcvY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=dbzKXsyAcvY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=dbzKXsyAcvY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=dbzKXsyAcvY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=dbzKXsyAcvY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=dbzKXsyAcvY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=dbzKXsyAcvY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=dbzKXsyAcvY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=i47aN_PUDvk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=i47aN_PUDvk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=eMZdggjnLQA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=eMZdggjnLQA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OSPBKnsTuDY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OSPBKnsTuDY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Ufssf7MdY20 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Ufssf7MdY20 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Ufssf7MdY20 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Ufssf7MdY20 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-LB4ENHxcIs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-LB4ENHxcIs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-LB4ENHxcIs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-LB4ENHxcIs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iMUjcZCLaGo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iMUjcZCLaGo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=jzemBg_G8zU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=jzemBg_G8zU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=kyLNqzXq8IA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=kyLNqzXq8IA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=kyLNqzXq8IA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=kyLNqzXq8IA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=IbpWUgidDS0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=IbpWUgidDS0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WprUBqi3iBc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WprUBqi3iBc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WprUBqi3iBc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WprUBqi3iBc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yzl_Ez0ZB9Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yzl_Ez0ZB9Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yzl_Ez0ZB9Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yzl_Ez0ZB9Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hEOcz-FHs4U HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hEOcz-FHs4U is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hEOcz-FHs4U HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hEOcz-FHs4U is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4hpFsUaFby0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4hpFsUaFby0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=YTRcwXhX4gc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=YTRcwXhX4gc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rnr_aY0X0dQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rnr_aY0X0dQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rnr_aY0X0dQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rnr_aY0X0dQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rnr_aY0X0dQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rnr_aY0X0dQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rnr_aY0X0dQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rnr_aY0X0dQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rnr_aY0X0dQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rnr_aY0X0dQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=12Cqpj9g96Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=12Cqpj9g96Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=12Cqpj9g96Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=12Cqpj9g96Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=12Cqpj9g96Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=12Cqpj9g96Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2nXrJ_7NOgE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2nXrJ_7NOgE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wwF6ExCtC54 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wwF6ExCtC54 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p8OYydc3WQM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p8OYydc3WQM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p8OYydc3WQM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p8OYydc3WQM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p8OYydc3WQM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p8OYydc3WQM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p8OYydc3WQM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p8OYydc3WQM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=p8OYydc3WQM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=p8OYydc3WQM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ppwqqeS8dzw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ppwqqeS8dzw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ppwqqeS8dzw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ppwqqeS8dzw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rNhQlDb-6UE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rNhQlDb-6UE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hjS0dQDgbjo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hjS0dQDgbjo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4feZ5E3o10A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4feZ5E3o10A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=5Sb-YjNphkY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=5Sb-YjNphkY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=41X2t_s2Ai4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=41X2t_s2Ai4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sP4e9vRUCYM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sP4e9vRUCYM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=13OPrjZT9lo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=13OPrjZT9lo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=13OPrjZT9lo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=13OPrjZT9lo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UXetwN_cI5A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UXetwN_cI5A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rWIDL_GpaJc&t=3s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=MDQQ9WZNwcc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=MDQQ9WZNwcc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=MDQQ9WZNwcc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=MDQQ9WZNwcc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=MDQQ9WZNwcc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=MDQQ9WZNwcc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vX7TC7Qrb64 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vX7TC7Qrb64 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vX7TC7Qrb64 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vX7TC7Qrb64 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vX7TC7Qrb64 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vX7TC7Qrb64 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0UsjUE-TXns HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0UsjUE-TXns is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=qAF88xW4xPY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=qAF88xW4xPY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=qAF88xW4xPY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=qAF88xW4xPY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=qAF88xW4xPY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=qAF88xW4xPY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sP4UqX7_wqw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sP4UqX7_wqw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Zjg2IfknuHE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Zjg2IfknuHE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fJVwZyjEa4k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fJVwZyjEa4k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fJVwZyjEa4k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fJVwZyjEa4k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=YasOpK1RNvg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=YasOpK1RNvg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xx1mmM_E10s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xx1mmM_E10s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=DOZJOFHs75s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=DOZJOFHs75s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=DOZJOFHs75s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=DOZJOFHs75s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=DOZJOFHs75s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=DOZJOFHs75s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KftGqsKKn7w HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KftGqsKKn7w is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yRFpGRVjGxo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yRFpGRVjGxo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yRFpGRVjGxo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yRFpGRVjGxo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=60omp0MhwPU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=60omp0MhwPU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vcrTUbE1NoY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vcrTUbE1NoY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vcrTUbE1NoY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vcrTUbE1NoY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vcrTUbE1NoY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vcrTUbE1NoY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=NAZKMt2NhtU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=NAZKMt2NhtU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=NAZKMt2NhtU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=NAZKMt2NhtU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=NAZKMt2NhtU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=NAZKMt2NhtU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4M6Y4QgvO2k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4M6Y4QgvO2k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=4M6Y4QgvO2k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=4M6Y4QgvO2k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RjtQ5iyxBrI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RjtQ5iyxBrI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1RjPFNyJ4Tw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1RjPFNyJ4Tw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1RjPFNyJ4Tw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1RjPFNyJ4Tw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1RjPFNyJ4Tw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1RjPFNyJ4Tw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1RjPFNyJ4Tw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1RjPFNyJ4Tw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ptIbdZNuwR0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ptIbdZNuwR0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Ks26De5YvSg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Ks26De5YvSg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=AkGYEiN8vOY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=AkGYEiN8vOY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XUg1eKl65p4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XUg1eKl65p4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XUg1eKl65p4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XUg1eKl65p4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XUg1eKl65p4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XUg1eKl65p4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XUg1eKl65p4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XUg1eKl65p4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XtkDeYBnR8o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XtkDeYBnR8o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XtkDeYBnR8o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XtkDeYBnR8o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9oISD6M-shc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9oISD6M-shc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OY1KL0vbBIo&t=135s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OY1KL0vbBIo&t=135s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Fz1I_Ssr3AE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Fz1I_Ssr3AE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9ko47J797_U&t=8s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9ko47J797_U&t=8s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OxvNbywgURw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OxvNbywgURw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pv1yeA4iHmU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pv1yeA4iHmU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=SdAhWTmIZ3I HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=SdAhWTmIZ3I is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=75BkNdtDsoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=75BkNdtDsoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=75BkNdtDsoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=75BkNdtDsoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=75BkNdtDsoQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=75BkNdtDsoQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=g0-WX7prrxo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=g0-WX7prrxo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=g0-WX7prrxo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=g0-WX7prrxo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xls-2HJLGSQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xls-2HJLGSQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xls-2HJLGSQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xls-2HJLGSQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Va7MKZV6Dic HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Va7MKZV6Dic is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=vfGBrMvyu10 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=vfGBrMvyu10 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=F5Wef1_PtLk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=F5Wef1_PtLk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bGMKkn2ZqJI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=bGMKkn2ZqJI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=oDnz2t98VYk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=oDnz2t98VYk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=oDnz2t98VYk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=oDnz2t98VYk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KRrKqGEGdMg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KRrKqGEGdMg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=V7WEPn3RJsc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=V7WEPn3RJsc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=V7WEPn3RJsc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=V7WEPn3RJsc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=V7WEPn3RJsc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=V7WEPn3RJsc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=V7WEPn3RJsc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=V7WEPn3RJsc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=V7WEPn3RJsc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=V7WEPn3RJsc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=H63Q4sfu9mk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=H63Q4sfu9mk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yX9vjlBjkMY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yX9vjlBjkMY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ZHUVt5W8UEk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ZHUVt5W8UEk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ZHUVt5W8UEk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ZHUVt5W8UEk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=P_VWeMzjoEY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=P_VWeMzjoEY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=W_IPtdsIUOo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=W_IPtdsIUOo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=W_IPtdsIUOo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=W_IPtdsIUOo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1E8k8gI_xYk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1E8k8gI_xYk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1E8k8gI_xYk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1E8k8gI_xYk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mBfWiymT0N8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mBfWiymT0N8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cv5avR9nEhg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cv5avR9nEhg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cv5avR9nEhg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cv5avR9nEhg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cv5avR9nEhg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cv5avR9nEhg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cv5avR9nEhg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cv5avR9nEhg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Cv5avR9nEhg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Cv5avR9nEhg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=LqJM7wcUixQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=LqJM7wcUixQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=_yqDuSdl28Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=_yqDuSdl28Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=_yqDuSdl28Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=_yqDuSdl28Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=c0tloO5tJUY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=c0tloO5tJUY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rkQZQhloXuE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rkQZQhloXuE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rkQZQhloXuE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rkQZQhloXuE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rkQZQhloXuE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rkQZQhloXuE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=rkQZQhloXuE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=rkQZQhloXuE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Vintf-DLWq0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Vintf-DLWq0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Vintf-DLWq0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Vintf-DLWq0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uPKOwziViaw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uPKOwziViaw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iHR2uV-Uxc8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iHR2uV-Uxc8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iHR2uV-Uxc8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iHR2uV-Uxc8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=JHFExZgYdwk&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=JHFExZgYdwk&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=JHFExZgYdwk&t=4s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=JHFExZgYdwk&t=4s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=B2MuRVFAn6w HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=B2MuRVFAn6w is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=B2MuRVFAn6w HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=B2MuRVFAn6w is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KHJjHjG-8JU&t=109s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KHJjHjG-8JU&t=109s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KHJjHjG-8JU&t=109s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KHJjHjG-8JU&t=109s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=6jjPIk3O0q4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=6jjPIk3O0q4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=6jjPIk3O0q4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=6jjPIk3O0q4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TSecJl0vg8Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TSecJl0vg8Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=owXsDIKq4lk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=owXsDIKq4lk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=owXsDIKq4lk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=owXsDIKq4lk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=O5_4x8p5t4U HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=O5_4x8p5t4U is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wbScz3a4NLk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wbScz3a4NLk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wbScz3a4NLk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wbScz3a4NLk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9RE2NLd_Sgw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9RE2NLd_Sgw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9RE2NLd_Sgw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9RE2NLd_Sgw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=02NAI-ykpWk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=02NAI-ykpWk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WxY7E9P46DM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WxY7E9P46DM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WxY7E9P46DM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WxY7E9P46DM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xEw0KrlJA6Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xEw0KrlJA6Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xEw0KrlJA6Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xEw0KrlJA6Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xEw0KrlJA6Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xEw0KrlJA6Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xEw0KrlJA6Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xEw0KrlJA6Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3TyhGI2gmJE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3TyhGI2gmJE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3TyhGI2gmJE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3TyhGI2gmJE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3TyhGI2gmJE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3TyhGI2gmJE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3TyhGI2gmJE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3TyhGI2gmJE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Eq6SnaimpzQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Eq6SnaimpzQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Eq6SnaimpzQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Eq6SnaimpzQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FNt4N8WFuVY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FNt4N8WFuVY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FNt4N8WFuVY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FNt4N8WFuVY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FNt4N8WFuVY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FNt4N8WFuVY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=25ymRY7hbjs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=25ymRY7hbjs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=25ymRY7hbjs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=25ymRY7hbjs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ckNZidesfIA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ckNZidesfIA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ckNZidesfIA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ckNZidesfIA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ckNZidesfIA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ckNZidesfIA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=I5uzRKXGSgc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=I5uzRKXGSgc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=R_ES8RZua1g HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=R_ES8RZua1g is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=thdb-I-H9kE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=thdb-I-H9kE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=thdb-I-H9kE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=thdb-I-H9kE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xhXw38OKfRQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xhXw38OKfRQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xhXw38OKfRQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xhXw38OKfRQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xhXw38OKfRQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xhXw38OKfRQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xhXw38OKfRQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xhXw38OKfRQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TDoqoJDX280 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TDoqoJDX280 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3RB642y8sgo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3RB642y8sgo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=3RB642y8sgo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=3RB642y8sgo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=WGfiiDgrq1I HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=WGfiiDgrq1I is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UoITyyziLOw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UoITyyziLOw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yDNcxRM9Nf8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yDNcxRM9Nf8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yDNcxRM9Nf8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yDNcxRM9Nf8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=yDNcxRM9Nf8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=yDNcxRM9Nf8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=TwkGS9TjUX8&t=21s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=TwkGS9TjUX8&t=21s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=gRIcq644uAQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=gRIcq644uAQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=gRIcq644uAQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=gRIcq644uAQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=gRIcq644uAQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=gRIcq644uAQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=q_p38s5JsXo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=q_p38s5JsXo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=q_p38s5JsXo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=q_p38s5JsXo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=mCG3gsQfiBA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=mCG3gsQfiBA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=A4_QxEDNDGE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=A4_QxEDNDGE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=nvaS2J5mcEk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=nvaS2J5mcEk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=nvaS2J5mcEk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=nvaS2J5mcEk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=k8GUS4fpkO4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=k8GUS4fpkO4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=P3tBJESDamE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=P3tBJESDamE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=MIPvaUKFA4c HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=MIPvaUKFA4c is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Kwvw-K6GYW8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Kwvw-K6GYW8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=zUym5LrN7_I HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=zUym5LrN7_I is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=zUym5LrN7_I HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=zUym5LrN7_I is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GvhBBWD4PLo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GvhBBWD4PLo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GvhBBWD4PLo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GvhBBWD4PLo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=SiBwCURu9fQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=SiBwCURu9fQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=537MWOtCl78 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=537MWOtCl78 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0Bj00OLMsjQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0Bj00OLMsjQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fNg_sJ9f8EI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fNg_sJ9f8EI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fNg_sJ9f8EI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fNg_sJ9f8EI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fNg_sJ9f8EI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fNg_sJ9f8EI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=fNg_sJ9f8EI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=fNg_sJ9f8EI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=MRhaDlslxF8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=MRhaDlslxF8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KTURNRi-wy0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KTURNRi-wy0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KTURNRi-wy0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KTURNRi-wy0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KTURNRi-wy0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KTURNRi-wy0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=qATuIbBufYQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=qATuIbBufYQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pnzIZR8wTV8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pnzIZR8wTV8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pnzIZR8wTV8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pnzIZR8wTV8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=r9Rten33zC8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=r9Rten33zC8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=OgcjUatW9LA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=OgcjUatW9LA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2fxtI59FmNs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2fxtI59FmNs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2fxtI59FmNs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2fxtI59FmNs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2fxtI59FmNs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2fxtI59FmNs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UlRyKsP78qQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UlRyKsP78qQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UlRyKsP78qQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UlRyKsP78qQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QPqvOMdfL0k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QPqvOMdfL0k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=otTiJBUrJmI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=otTiJBUrJmI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=otTiJBUrJmI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=otTiJBUrJmI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=otTiJBUrJmI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=otTiJBUrJmI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2YRASxmXLD0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2YRASxmXLD0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sUC-XDC5TvA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sUC-XDC5TvA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sUC-XDC5TvA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sUC-XDC5TvA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sUC-XDC5TvA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sUC-XDC5TvA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=c49qWjgFtRI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=c49qWjgFtRI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=c49qWjgFtRI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=c49qWjgFtRI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9p6eojPZWu4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9p6eojPZWu4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9p6eojPZWu4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9p6eojPZWu4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=PgrN3IWv91k HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=PgrN3IWv91k is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=99noLwmY2Bc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=99noLwmY2Bc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FwGL9FjFpYI&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FwGL9FjFpYI&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FwGL9FjFpYI&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FwGL9FjFpYI&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FwGL9FjFpYI&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FwGL9FjFpYI&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-QZYGYEZlQg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-QZYGYEZlQg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=kwCfdkhc37c HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=kwCfdkhc37c is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wqDOKXEx24M HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wqDOKXEx24M is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=wqDOKXEx24M HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=wqDOKXEx24M is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=r2y_GxB5PZo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=r2y_GxB5PZo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xbVVThaez2g HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xbVVThaez2g is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HBQaI1ZG-LU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HBQaI1ZG-LU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HBQaI1ZG-LU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HBQaI1ZG-LU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=exk-qIRNw7Y HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=exk-qIRNw7Y is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=exk-qIRNw7Y HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=exk-qIRNw7Y is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xIIGn6cn8BI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xIIGn6cn8BI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=xIIGn6cn8BI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=xIIGn6cn8BI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bXyG4iebEBo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=bXyG4iebEBo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=6Mmgrtw_Zro HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=6Mmgrtw_Zro is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=lkeLvhNoTxg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=lkeLvhNoTxg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FBimL8-ND3E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FBimL8-ND3E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FBimL8-ND3E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FBimL8-ND3E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=SJAhRxI7i9c HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=SJAhRxI7i9c is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=-msMbTjOPyk HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=-msMbTjOPyk is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Lk2Vws8homw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Lk2Vws8homw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=ktkz1BUzs48 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=ktkz1BUzs48 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uE3IDWh0xnA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uE3IDWh0xnA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uE3IDWh0xnA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uE3IDWh0xnA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uE3IDWh0xnA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uE3IDWh0xnA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RMUydgQr9TE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RMUydgQr9TE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RMUydgQr9TE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RMUydgQr9TE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RMUydgQr9TE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RMUydgQr9TE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=RMUydgQr9TE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=RMUydgQr9TE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=g5KHrQrZRmY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=g5KHrQrZRmY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=uKVcATFm9Sg HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=uKVcATFm9Sg is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=koMZVbqiXf4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=koMZVbqiXf4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=koMZVbqiXf4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=koMZVbqiXf4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=koMZVbqiXf4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=koMZVbqiXf4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GOczM9jk2xY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GOczM9jk2xY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GOczM9jk2xY HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GOczM9jk2xY is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0HvgswZfDGI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0HvgswZfDGI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=x28Kk_NjEGU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=x28Kk_NjEGU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=x28Kk_NjEGU HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=x28Kk_NjEGU is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=1b2TXYk0jbM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=1b2TXYk0jbM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Nc7rSopCpI8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Nc7rSopCpI8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=N4n5CDpyX3w HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=N4n5CDpyX3w is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=N4n5CDpyX3w HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=N4n5CDpyX3w is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7sZLZpm4n2E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7sZLZpm4n2E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7sZLZpm4n2E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7sZLZpm4n2E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7sZLZpm4n2E HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7sZLZpm4n2E is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7m6N78E-5uE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7m6N78E-5uE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=kZuJalsv_z0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=kZuJalsv_z0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pD4QabDQr6M HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pD4QabDQr6M is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=pD4QabDQr6M HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=pD4QabDQr6M is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Pt_L8OV40Bc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Pt_L8OV40Bc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=si01coqVYiA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=si01coqVYiA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0bIF7jh6lnE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0bIF7jh6lnE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=S_LEeTt2McM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=S_LEeTt2McM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=g59_3vr_NT0 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=g59_3vr_NT0 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9g-hioQapYE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9g-hioQapYE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9g-hioQapYE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9g-hioQapYE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9g-hioQapYE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9g-hioQapYE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9g-hioQapYE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9g-hioQapYE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9g-hioQapYE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9g-hioQapYE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=jC6sHiZBEyI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=jC6sHiZBEyI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=eeHS78JyN70 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=eeHS78JyN70 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=eeHS78JyN70 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=eeHS78JyN70 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=BEKUHzwnVO8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=BEKUHzwnVO8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=BEKUHzwnVO8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=BEKUHzwnVO8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=BEKUHzwnVO8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=BEKUHzwnVO8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=BEKUHzwnVO8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=BEKUHzwnVO8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iDWntsY_rZM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iDWntsY_rZM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iDWntsY_rZM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iDWntsY_rZM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iDWntsY_rZM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iDWntsY_rZM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=iDWntsY_rZM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=iDWntsY_rZM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=aGtIHKEdCds HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=aGtIHKEdCds is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUMEcnkvhJU&t=862s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUMEcnkvhJU&t=862s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=HUMEcnkvhJU&t=862s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=HUMEcnkvhJU&t=862s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=bX1eJjB3nyA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=bX1eJjB3nyA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Gj5_x1Xk49Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Gj5_x1Xk49Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QBtof6T2N0Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QBtof6T2N0Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0v4Y9WGhES8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0v4Y9WGhES8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=0v4Y9WGhES8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=0v4Y9WGhES8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=IAYDcpRyf1Q HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=IAYDcpRyf1Q is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=JYF-AfMbUNw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=JYF-AfMbUNw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=JYF-AfMbUNw HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=JYF-AfMbUNw is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=XdA0TlfPB48 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=XdA0TlfPB48 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UjiCWH8PSvM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UjiCWH8PSvM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=VcRx3U-HpTE HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=VcRx3U-HpTE is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=QwxSYpnuATA HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=QwxSYpnuATA is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=sQELZPmche8 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=sQELZPmche8 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=afwqCG7GmrQ HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=afwqCG7GmrQ is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2VB3WN8adyM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2VB3WN8adyM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2VB3WN8adyM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2VB3WN8adyM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2VB3WN8adyM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2VB3WN8adyM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2VB3WN8adyM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2VB3WN8adyM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2VB3WN8adyM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2VB3WN8adyM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=DtTVnZO0kNI HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=DtTVnZO0kNI is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=J9kZS0VdY_A&t=8s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=J9kZS0VdY_A&t=8s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=J9kZS0VdY_A&t=8s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=J9kZS0VdY_A&t=8s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=n7MQUHa0vr4&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=n7MQUHa0vr4&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=n7MQUHa0vr4&t=1s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=n7MQUHa0vr4&t=1s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=7yKNI0jlXMs HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=7yKNI0jlXMs is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hKogDJd0yc4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hKogDJd0yc4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=hKogDJd0yc4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=hKogDJd0yc4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GmxS5HkNc3o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GmxS5HkNc3o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GmxS5HkNc3o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GmxS5HkNc3o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GmxS5HkNc3o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GmxS5HkNc3o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=GmxS5HkNc3o HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=GmxS5HkNc3o is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FRQbKDZeRzM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FRQbKDZeRzM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=FRQbKDZeRzM HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=FRQbKDZeRzM is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=He0k3ddd67A HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=He0k3ddd67A is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=Qvn5RGyb0po HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=Qvn5RGyb0po is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=2ofPs_uTel4 HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=2ofPs_uTel4 is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KLD5f35qEDI&t=1043s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KLD5f35qEDI&t=1043s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=KLD5f35qEDI&t=1043s HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=KLD5f35qEDI&t=1043s is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9bosgmeAAuo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9bosgmeAAuo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=9bosgmeAAuo HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=9bosgmeAAuo is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=cxXEULq9Jpc HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=cxXEULq9Jpc is valid
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.youtube.com:443
+DEBUG:urllib3.connectionpool:https://www.youtube.com:443 "GET /watch?v=UmcAkb54I4c HTTP/1.1" 200 None
+INFO:root:https://www.youtube.com/watch?v=UmcAkb54I4c is valid
+INFO:root:running time: 276.17659282684326

@@ -1,0 +1,11 @@
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=J7tP98oDxqE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\J7tP98oDxqE.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=IgT0jDp56ZM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\IgT0jDp56ZM.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\IgT0jDp56ZM.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.577
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink

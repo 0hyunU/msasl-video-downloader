@@ -1,0 +1,967 @@
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=J7tP98oDxqE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\J7tP98oDxqE.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=IgT0jDp56ZM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\IgT0jDp56ZM.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\htsdwxJ-fTo.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\htsdwxJ-fTo.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=htsdwxJ-fTo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\htsdwxJ-fTo.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\K8c-np9zNT8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=K8c-np9zNT8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\K8c-np9zNT8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Cgh1DXAQBuI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\Cgh1DXAQBuI.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\Cgh1DXAQBuI.mp4 trim error
+ERROR:root:start_time: 30.998, end_time: 34.568
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Cgh1DXAQBuI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\Cgh1DXAQBuI.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\Cgh1DXAQBuI.mp4 trim error
+ERROR:root:start_time: 57.124, end_time: 60.727
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 330.964, end_time: 337.17
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 801.968, end_time: 807.74
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 838.705, end_time: 839.706
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 839.772, end_time: 846.012
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 1267.633, end_time: 1269.135
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 1269.268, end_time: 1272.004
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=7YYB3BEoksc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\7YYB3BEoksc.mp4 trim error
+ERROR:root:start_time: 1272.071, end_time: 1272.972
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=k6cNmM9WgUs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\k6cNmM9WgUs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=pkzfT9cYvH0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\pkzfT9cYvH0.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=shPBfkIYYpU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\shPBfkIYYpU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=RWYus9H4YrQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\RWYus9H4YrQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=XjWSfh50kAU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\XjWSfh50kAU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2SkeRyJnT0k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\2SkeRyJnT0k.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=bqB9rqJ0w7k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\bqB9rqJ0w7k.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=sErq0TJMKEo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\sErq0TJMKEo.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=XhsACc1jw0s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\XhsACc1jw0s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\73icFhednQU.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\73icFhednQU.mp4 trim error
+ERROR:root:start_time: 251.067, end_time: 252.933
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\73icFhednQU.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\73icFhednQU.mp4 trim error
+ERROR:root:start_time: 324.4, end_time: 325.967
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\73icFhednQU.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\73icFhednQU.mp4 trim error
+ERROR:root:start_time: 336.333, end_time: 338.1
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=73icFhednQU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\73icFhednQU.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\73icFhednQU.mp4 trim error
+ERROR:root:start_time: 445.933, end_time: 448.033
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=fUlWG-qGFis
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\fUlWG-qGFis.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=I07uu8vnJYs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\I07uu8vnJYs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-_0i3qAEM1E
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\-_0i3qAEM1E.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ax2UGtA8h3E
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\ax2UGtA8h3E.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=eXpXg4q-qEQ&t=170s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\-qEQ&t=170s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=QTbj2GM5ohs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\QTbj2GM5ohs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=QTbj2GM5ohs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\QTbj2GM5ohs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=my4mxg6lXYQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\my4mxg6lXYQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=my4mxg6lXYQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\my4mxg6lXYQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=LPyvlWpL-xk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\LPyvlWpL-xk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=TLoZKdMeA8w
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\TLoZKdMeA8w.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=27djXV1qAss
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\27djXV1qAss.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\mfrGIHTnKvI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\mfrGIHTnKvI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\mfrGIHTnKvI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\mfrGIHTnKvI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mfrGIHTnKvI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\mfrGIHTnKvI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TwkGS9TjUX8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\TwkGS9TjUX8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=f7COHRpmVKA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\f7COHRpmVKA.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=sN-PvjTdOCM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\sN-PvjTdOCM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=WACMzmRGgY8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\WACMzmRGgY8.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\WACMzmRGgY8.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.103
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=YsLUNOu9jXU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\YsLUNOu9jXU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=HUvhi7Lox14
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\HUvhi7Lox14.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=nyUDOPmQlZQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\nyUDOPmQlZQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rTykxVBxc00
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\rTykxVBxc00.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=SiTBL7DYzZQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\SiTBL7DYzZQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=V3hT7-PIJz4
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\V3hT7-PIJz4.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=hqF01cx9jYs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\hqF01cx9jYs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 trim error
+ERROR:root:start_time: 46.513, end_time: 49.082
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 trim error
+ERROR:root:start_time: 47.08, end_time: 49.082
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 trim error
+ERROR:root:start_time: 49.75, end_time: 51.752
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=lSxAVvE9sPc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lSxAVvE9sPc.mp4 trim error
+ERROR:root:start_time: 52.085, end_time: 54.755
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZJC6RCmgUGI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\ZJC6RCmgUGI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mCjHYreiZ24
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\mCjHYreiZ24.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mCjHYreiZ24
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\mCjHYreiZ24.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZevaHrDogo8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\ZevaHrDogo8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=CR1cRZi1jtQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\CR1cRZi1jtQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=bHRhz2geOTA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\bHRhz2geOTA.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\bHRhz2geOTA.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 0.834
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=6XcxbPfP5YQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\6XcxbPfP5YQ.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\6XcxbPfP5YQ.mp4 trim error
+ERROR:root:start_time: 32.2, end_time: 35.84
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=_8t-Avfk310
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_8t-Avfk310.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=3zoqSvF0Z2A
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\3zoqSvF0Z2A.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=OsSj-kl579A
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\OsSj-kl579A.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\OsSj-kl579A.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 2.97
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=sKSFluFAcio
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\sKSFluFAcio.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=fzroOSp32S4
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\fzroOSp32S4.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=uPWzbFvXcuw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\uPWzbFvXcuw.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\uPWzbFvXcuw.mp4 trim error
+ERROR:root:start_time: 115.716, end_time: 118.185
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=K4lo0NZDlH8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\K4lo0NZDlH8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kK1ms78-_mc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\kK1ms78-_mc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=jmlYtEoHKiY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\jmlYtEoHKiY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\jmlYtEoHKiY.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 9.314
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=5sMmseav-dU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\5sMmseav-dU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\MWCVhM&t=4s.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\MWCVhM&t=4s.mp4 trim error
+ERROR:root:start_time: 11.178, end_time: 14.181
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\MWCVhM&t=4s.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\MWCVhM&t=4s.mp4 trim error
+ERROR:root:start_time: 15.849, end_time: 18.185
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=QxOYnMWCVhM&t=4s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\MWCVhM&t=4s.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\MWCVhM&t=4s.mp4 trim error
+ERROR:root:start_time: 59.293, end_time: 64.998
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vE4RFGPqGqY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\vE4RFGPqGqY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=8hBFgtJOZaE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\8hBFgtJOZaE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\p36hZJQpLoQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\p36hZJQpLoQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p36hZJQpLoQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\p36hZJQpLoQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=Tckw40A23Bc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\Tckw40A23Bc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\Tckw40A23Bc.mp4 trim error
+ERROR:root:start_time: 81.0, end_time: 86.96
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Tckw40A23Bc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\Tckw40A23Bc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=tO6x4rdDNXk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\tO6x4rdDNXk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=sRFEk6j4w_8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\sRFEk6j4w_8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=XBjyvy4ASgc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\XBjyvy4ASgc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\XBjyvy4ASgc.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.403
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WuwIz-vDMUc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\WuwIz-vDMUc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wkxCnCMo7Mc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\wkxCnCMo7Mc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\VTtg&t=242s.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\VTtg&t=242s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\VTtg&t=242s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\VTtg&t=242s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=TnJQtTYVTtg&t=242s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\VTtg&t=242s.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\VTtg&t=242s.mp4 trim error
+ERROR:root:start_time: 971.103, end_time: 974.073
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=k0T-yY_HrEQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\k0T-yY_HrEQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=pc0-gVEETVg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\pc0-gVEETVg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=yAWM8TKoSuY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\yAWM8TKoSuY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=4iWzK-kKmIU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\4iWzK-kKmIU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9LlyuneZA0Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\9LlyuneZA0Q.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=HoDXS3W8lEM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\HoDXS3W8lEM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\dbzKXsyAcvY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\dbzKXsyAcvY.mp4 trim error
+ERROR:root:start_time: 44.169, end_time: 46.63
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\dbzKXsyAcvY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\dbzKXsyAcvY.mp4 trim error
+ERROR:root:start_time: 60.477, end_time: 62.521
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\dbzKXsyAcvY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\dbzKXsyAcvY.mp4 trim error
+ERROR:root:start_time: 79.288, end_time: 81.581
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\dbzKXsyAcvY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\dbzKXsyAcvY.mp4 trim error
+ERROR:root:start_time: 136.053, end_time: 137.763
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=dbzKXsyAcvY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\dbzKXsyAcvY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\dbzKXsyAcvY.mp4 trim error
+ERROR:root:start_time: 218.552, end_time: 221.096
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=i47aN_PUDvk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\i47aN_PUDvk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=eMZdggjnLQA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\eMZdggjnLQA.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=OSPBKnsTuDY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\OSPBKnsTuDY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=U32Kznk2a70
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\U32Kznk2a70.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\U32Kznk2a70.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.537
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Ufssf7MdY20
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\Ufssf7MdY20.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-LB4ENHxcIs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\-LB4ENHxcIs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=-LB4ENHxcIs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\-LB4ENHxcIs.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 71.367, end_time: 75.067
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 118.367, end_time: 121.067
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 203.2, end_time: 203.8
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 203.867, end_time: 205.033
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 205.1, end_time: 205.8
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=iMUjcZCLaGo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\iMUjcZCLaGo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\iMUjcZCLaGo.mp4 trim error
+ERROR:root:start_time: 567.633, end_time: 572.7
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=jzemBg_G8zU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\jzemBg_G8zU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=VI7-AxRoi-8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\VI7-AxRoi-8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kyLNqzXq8IA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\kyLNqzXq8IA.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=kyLNqzXq8IA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\kyLNqzXq8IA.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=IbpWUgidDS0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\IbpWUgidDS0.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\IbpWUgidDS0.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 4.972
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WprUBqi3iBc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\WprUBqi3iBc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=WprUBqi3iBc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\WprUBqi3iBc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=yzl_Ez0ZB9Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\yzl_Ez0ZB9Q.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=hEOcz-FHs4U
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\hEOcz-FHs4U.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\hEOcz-FHs4U.mp4 trim error
+ERROR:root:start_time: 2.002, end_time: 4.671
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=hEOcz-FHs4U
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\hEOcz-FHs4U.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\hEOcz-FHs4U.mp4 trim error
+ERROR:root:start_time: 6.006, end_time: 8.008
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=4hpFsUaFby0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\4hpFsUaFby0.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=YTRcwXhX4gc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\YTRcwXhX4gc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=dZGxPkGt7QA
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\dZGxPkGt7QA.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\dZGxPkGt7QA.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 4.4
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\rnr_aY0X0dQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\rnr_aY0X0dQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\rnr_aY0X0dQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rnr_aY0X0dQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\rnr_aY0X0dQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=eIPe2WLrJtY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\eIPe2WLrJtY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\eIPe2WLrJtY.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.5
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\12Cqpj9g96Q.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\12Cqpj9g96Q.mp4 trim error
+ERROR:root:start_time: 10.3, end_time: 12.7
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\12Cqpj9g96Q.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\12Cqpj9g96Q.mp4 trim error
+ERROR:root:start_time: 101.333, end_time: 104.0
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=12Cqpj9g96Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\12Cqpj9g96Q.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\12Cqpj9g96Q.mp4 trim error
+ERROR:root:start_time: 105.667, end_time: 108.333
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=2nXrJ_7NOgE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\2nXrJ_7NOgE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=wwF6ExCtC54
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\wwF6ExCtC54.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\p8OYydc3WQM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\p8OYydc3WQM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\p8OYydc3WQM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\p8OYydc3WQM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=p8OYydc3WQM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\p8OYydc3WQM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ppwqqeS8dzw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\ppwqqeS8dzw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rNhQlDb-6UE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\rNhQlDb-6UE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=hjS0dQDgbjo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\hjS0dQDgbjo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\hjS0dQDgbjo.mp4 trim error
+ERROR:root:start_time: 85.852, end_time: 89.823
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=4feZ5E3o10A
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\4feZ5E3o10A.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=5Sb-YjNphkY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\5Sb-YjNphkY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=41X2t_s2Ai4
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\41X2t_s2Ai4.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=sP4e9vRUCYM
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\sP4e9vRUCYM.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=13OPrjZT9lo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\13OPrjZT9lo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\13OPrjZT9lo.mp4 trim error
+ERROR:root:start_time: 177.233, end_time: 178.7
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=13OPrjZT9lo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\13OPrjZT9lo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\13OPrjZT9lo.mp4 trim error
+ERROR:root:start_time: 185.133, end_time: 188.3
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\UXetwN_cI5A.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=UXetwN_cI5A
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\UXetwN_cI5A.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_GpaJc&t=3s.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_GpaJc&t=3s.mp4 trim error
+ERROR:root:start_time: 64.794, end_time: 69.798
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\_GpaJc&t=3s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\_GpaJc&t=3s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\_GpaJc&t=3s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\_GpaJc&t=3s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rWIDL_GpaJc&t=3s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\_GpaJc&t=3s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=MDQQ9WZNwcc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\MDQQ9WZNwcc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=MDQQ9WZNwcc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\MDQQ9WZNwcc.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=Wt4p6qWgR1k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\Wt4p6qWgR1k.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vX7TC7Qrb64
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\vX7TC7Qrb64.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=0UsjUE-TXns
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\0UsjUE-TXns.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=2YsxdBYO6Jk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\2YsxdBYO6Jk.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\2YsxdBYO6Jk.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.704
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=qAF88xW4xPY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\qAF88xW4xPY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=GobeSyJHyLk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\GobeSyJHyLk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=sP4UqX7_wqw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\sP4UqX7_wqw.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\sP4UqX7_wqw.mp4 trim error
+ERROR:root:start_time: 72.072, end_time: 73.74
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Zjg2IfknuHE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\Zjg2IfknuHE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=fJVwZyjEa4k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\fJVwZyjEa4k.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=fJVwZyjEa4k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\fJVwZyjEa4k.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=YasOpK1RNvg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\YasOpK1RNvg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=xx1mmM_E10s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\xx1mmM_E10s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=DOZJOFHs75s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\DOZJOFHs75s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=DOZJOFHs75s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\DOZJOFHs75s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=KftGqsKKn7w
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\KftGqsKKn7w.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\KftGqsKKn7w.mp4 trim error
+ERROR:root:start_time: 62.167, end_time: 66.8
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=yRFpGRVjGxo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\yRFpGRVjGxo.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=60omp0MhwPU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\60omp0MhwPU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\vcrTUbE1NoY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\vcrTUbE1NoY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vcrTUbE1NoY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\vcrTUbE1NoY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=NAZKMt2NhtU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\NAZKMt2NhtU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=NAZKMt2NhtU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\NAZKMt2NhtU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4M6Y4QgvO2k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\4M6Y4QgvO2k.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\4M6Y4QgvO2k.mp4 trim error
+ERROR:root:start_time: 78.545, end_time: 83.684
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=4M6Y4QgvO2k
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\4M6Y4QgvO2k.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\4M6Y4QgvO2k.mp4 trim error
+ERROR:root:start_time: 85.752, end_time: 90.891
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=RjtQ5iyxBrI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\RjtQ5iyxBrI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\1RjPFNyJ4Tw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\1RjPFNyJ4Tw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\1RjPFNyJ4Tw.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\1RjPFNyJ4Tw.mp4 trim error
+ERROR:root:start_time: 204.071, end_time: 207.474
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1RjPFNyJ4Tw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\1RjPFNyJ4Tw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ptIbdZNuwR0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\ptIbdZNuwR0.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Ks26De5YvSg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\Ks26De5YvSg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=AkGYEiN8vOY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\AkGYEiN8vOY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=ORt_WpwODZ0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\ORt_WpwODZ0.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\ORt_WpwODZ0.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 4.204
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=XUg1eKl65p4
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\XUg1eKl65p4.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=XtkDeYBnR8o
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\XtkDeYBnR8o.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=9oISD6M-shc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\9oISD6M-shc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\9oISD6M-shc.mp4 trim error
+ERROR:root:start_time: 4.004, end_time: 7.674
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=OY1KL0vbBIo&t=135s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\bBIo&t=135s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Fz1I_Ssr3AE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\Fz1I_Ssr3AE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=9ko47J797_U&t=8s
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\J797_U&t=8s.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=OxvNbywgURw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\OxvNbywgURw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=pv1yeA4iHmU
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\pv1yeA4iHmU.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=SdAhWTmIZ3I
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\SdAhWTmIZ3I.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\SdAhWTmIZ3I.mp4 trim error
+ERROR:root:start_time: 50.433, end_time: 56.671
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=75BkNdtDsoQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\75BkNdtDsoQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=75BkNdtDsoQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\75BkNdtDsoQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g0-WX7prrxo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\g0-WX7prrxo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\g0-WX7prrxo.mp4 trim error
+ERROR:root:start_time: 151.051, end_time: 153.654
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=g0-WX7prrxo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\g0-WX7prrxo.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\g0-WX7prrxo.mp4 trim error
+ERROR:root:start_time: 266.566, end_time: 267.467
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xls-2HJLGSQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\xls-2HJLGSQ.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\xls-2HJLGSQ.mp4 trim error
+ERROR:root:start_time: 25.792, end_time: 28.295
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=xls-2HJLGSQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\xls-2HJLGSQ.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\xls-2HJLGSQ.mp4 trim error
+ERROR:root:start_time: 160.861, end_time: 163.13
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Va7MKZV6Dic
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\Va7MKZV6Dic.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=vfGBrMvyu10
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\vfGBrMvyu10.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=F5Wef1_PtLk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\F5Wef1_PtLk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=bGMKkn2ZqJI
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\bGMKkn2ZqJI.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=d3hz26r_ulw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\d3hz26r_ulw.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\d3hz26r_ulw.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 3.37
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oDnz2t98VYk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\oDnz2t98VYk.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\oDnz2t98VYk.mp4 trim error
+ERROR:root:start_time: 33.133, end_time: 38.071
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=oDnz2t98VYk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\oDnz2t98VYk.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\oDnz2t98VYk.mp4 trim error
+ERROR:root:start_time: 105.272, end_time: 110.344
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=KRrKqGEGdMg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\KRrKqGEGdMg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 trim error
+ERROR:root:start_time: 37.496, end_time: 38.163
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 trim error
+ERROR:root:start_time: 38.247, end_time: 39.373
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\V7WEPn3RJsc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\V7WEPn3RJsc.mp4 trim error
+ERROR:root:start_time: 174.591, end_time: 176.802
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\V7WEPn3RJsc.mp4 trim error
+ERROR:root:start_time: 185.227, end_time: 185.852
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=V7WEPn3RJsc
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\V7WEPn3RJsc.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\V7WEPn3RJsc.mp4 trim error
+ERROR:root:start_time: 202.119, end_time: 204.913
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=H63Q4sfu9mk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\H63Q4sfu9mk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=yX9vjlBjkMY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\yX9vjlBjkMY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZHUVt5W8UEk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\ZHUVt5W8UEk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=ZHUVt5W8UEk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\ZHUVt5W8UEk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=1tMYCoZB0lE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\1tMYCoZB0lE.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\1tMYCoZB0lE.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 0.767
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=P_VWeMzjoEY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\P_VWeMzjoEY.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\P_VWeMzjoEY.mp4 trim error
+ERROR:root:start_time: 0.69, end_time: 1.828
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=W_IPtdsIUOo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\W_IPtdsIUOo.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=W_IPtdsIUOo
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\black\W_IPtdsIUOo.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1E8k8gI_xYk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\woman\1E8k8gI_xYk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=1E8k8gI_xYk
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\1E8k8gI_xYk.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=mBfWiymT0N8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\orange\mBfWiymT0N8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Cv5avR9nEhg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go\Cv5avR9nEhg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\go
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=LqJM7wcUixQ
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\LqJM7wcUixQ.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=_yqDuSdl28Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_yqDuSdl28Q.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_yqDuSdl28Q.mp4 trim error
+ERROR:root:start_time: 66.767, end_time: 69.102
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf
+ERROR:root:Unsuccessful downloading - youtube video url https://www.youtube.com/watch?v=_yqDuSdl28Q
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_yqDuSdl28Q.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\deaf\_yqDuSdl28Q.mp4 trim error
+ERROR:root:start_time: 69.77, end_time: 71.438
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=c0tloO5tJUY
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\c0tloO5tJUY.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink\rkQZQhloXuE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\drink
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=rkQZQhloXuE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\rkQZQhloXuE.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=Vintf-DLWq0
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk\Vintf-DLWq0.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\walk
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url www.youtube.com/watch?v=lgNwgl10VSg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\lgNwgl10VSg.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=uPKOwziViaw
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no\uPKOwziViaw.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=iHR2uV-Uxc8
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\cousin\iHR2uV-Uxc8.mp4 download
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\no

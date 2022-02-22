@@ -1,0 +1,16 @@
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train
+INFO:root:dir is exist: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\match
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=C37R_Ix8-qs
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\match\C37R_Ix8-qs.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\fail
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=PIsUJl8BN_I
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\fail\PIsUJl8BN_I.mp4 download
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\laugh
+ERROR:root:Unsuccessful downloading - youtube video url www.youtube.com/watch?v=9FdHlMOnVjg
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\laugh\9FdHlMOnVjg.mp4 download
+ERROR:root:C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\laugh\9FdHlMOnVjg.mp4 trim error
+ERROR:root:start_time: 0.0, end_time: 1.034
+INFO:root:made dir: C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book
+INFO:root:Finish downloading youtube video url https://www.youtube.com/watch?v=J7tP98oDxqE
+INFO:root:YouTube origin videos C:/Users/user/Documents/GitHub/msasl-video-downloader/wlasl/WLASL/start_kit/MS-ASL\dataset\train\book\J7tP98oDxqE.mp4 download
