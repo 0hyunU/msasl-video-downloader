@@ -139,6 +139,7 @@ class VidAug():
         st_time = time.time()
         vid_arr = self.vid_arr
         for i in aug_func_list:
+            
             if random.randint(0,10)>=4:
                 vid_arr = i(vid_arr)
         self.aug_time = time.time() - st_time

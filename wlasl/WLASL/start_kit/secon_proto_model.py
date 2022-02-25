@@ -1,3 +1,4 @@
+import json
 from sklearn.preprocessing import LabelBinarizer
 from model import cnn_model, dnn_flatten, lstm_model_proto, SEQ_LEN
 from vid.aug_vid import load_data_json
@@ -43,9 +44,11 @@ def compress_seq(arr):
 
     return res
 
-def load_train_data():
+def load_train_data(base_dir = "."):
     x,y = [],[]
-    for i in glob.glob("./train/**/*.pickle"):
+    print(len(glob.glob(f"{base_dir}/train/**/*.pickle")))
+
+    for i in glob.glob(f"{base_dir}/train/**/*.pickle"):
         arr = pickle.load(open(i, 'rb'))
         #x.append(padding_seq(arr))
         x.append(arr)
@@ -53,9 +56,9 @@ def load_train_data():
 
     return np.array(x, dtype="object"), np.array(y, dtype="object")
 
-def load_test_data():
+def load_test_data(base_dir = "."):
     x,y = [],[]
-    for i in glob.glob("./test/**/*.pickle"):
+    for i in glob.glob(f"{base_dir}/test/**/*.pickle"):
         arr = pickle.load(open(i, 'rb'))
         #x.append(padding_seq(arr))
         x.append(arr)
@@ -78,27 +81,38 @@ def padding_seq(data: np.array):
         print(data.shape)
 
 if __name__ == "__main__":
-    x,y = load_train_data()
-    x_val,y_val = load_test_data()
-    
-    #compression & padding
-    x = [compress_seq(i) for i in x]
-    x = np.array([padding_seq(i)for i in x])
-    x_val = [compress_seq(i) for i in x_val]
-    x_val = np.array([padding_seq(i) for i in x_val])
-    print(x.shape, x_val.shape)
+    for j in [50,70,120]:
+        if j!= 70: continue
+        PAD_LEN = SEQ_LEN = j
+        x,y = load_train_data()
+        x_val,y_val = load_test_data()
+        
+        print(y.shape)
+        #compression & padding
+        x = [compress_seq(i) for i in x]
+        x = np.array([padding_seq(i)for i in x])
+        x_val = [compress_seq(i) for i in x_val]
+        x_val = np.array([padding_seq(i) for i in x_val])
+        print(x.shape, x_val.shape)
 
-    y_labeling = LabelBinarizer().fit(y)
-    y = y_labeling.transform(y).argmax(1)
-    y_val = y_labeling.transform(y_val).argmax(1)
-    # print(encoder)
-    
-    x,y = shuffle(x,y)
-    x_val,y_val = shuffle(x_val,y_val)
-    
-    print(set(y_val))
-    model = lstm_model_proto(x,y)
-    model.summary()
-    x = x.reshape((len(y),PAD_LEN,-1))
-    x_val = x_val.reshape((len(y_val),PAD_LEN,-1))
-    model.fit(x,y, epochs=300, validation_data = (x_val,y_val))
+        y_labeling = LabelBinarizer().fit(y)
+        y = y_labeling.transform(y).argmax(1)
+        y_val = y_labeling.transform(y_val).argmax(1)
+        # print(encoder)
+        
+        x,y = shuffle(x,y)
+        x_val,y_val = shuffle(x_val,y_val)
+        
+        print(set(y_val))
+
+        for i in range(5):
+            if i <= 3: continue
+            model = lstm_model_proto(x,y, mode = i,seq_len = SEQ_LEN)
+            model.summary()
+            x = x.reshape((len(y),PAD_LEN,-1))
+            x_val = x_val.reshape((len(y_val),PAD_LEN,-1))
+            epochs = 1000
+            result = model.fit(x,y, epochs=epochs, validation_data = (x_val,y_val))
+            count = len(glob.glob("./*.json"))
+            with open(f"./model_result_history_json/result_model({i})_seq({j})_try2.json", 'w') as f:
+                json.dump(result.history,f)

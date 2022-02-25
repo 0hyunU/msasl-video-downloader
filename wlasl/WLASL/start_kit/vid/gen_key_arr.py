@@ -1,3 +1,4 @@
+import copy
 from msilib.schema import Verb
 import time
 import traceback
@@ -33,9 +34,10 @@ class KeyArrGen():
         #todo x,y separate
         from sklearn.preprocessing import MinMaxScaler
         mms = MinMaxScaler()
-        res = keypoint
+        res = copy.deepcopy(keypoint)
+        res[:,:,2] = res[:,:,2] * (-1)
         for i in range(res.shape[2]):
-            res[:,:,i] =mms.fit_transform(keypoint[:,:,i].reshape((-1,1))).reshape(keypoint.shape[:2])
+            res[:,:,i] =mms.fit_transform(res[:,:,i].reshape((-1,1))).reshape(res.shape[:2])
         return res
 
     def draw_landmark(self,image,mp_drawing, results):
@@ -52,7 +54,7 @@ class KeyArrGen():
     def concat_keypoint_data(self,landmark: object, base:np.ndarray, hands_mean = 0) -> np.ndarray:
         
         if landmark:
-            tmp = np.array([[i.x,i.y] for i in landmark.landmark])
+            tmp = np.array([[i.x,i.y, i.z] for i in landmark.landmark])
             return np.vstack([base,np.expand_dims(tmp,0)])
         else:
             """
@@ -145,9 +147,9 @@ class KeyArrGen():
             if holistic_body_visible and not avail_flag: 
                 avail_flag = True
                 avail_frame += 1 # start 1 base array stacked
-                face = np.zeros((1,FACE_FEATUERS,2))
-                pose = np.zeros((1,POSE_FEATURES,2))
-                lh = rh = np.zeros((1,HAND_FEATURES,2))
+                face = np.zeros((1,FACE_FEATUERS,3))
+                pose = np.zeros((1,POSE_FEATURES,3))
+                lh = rh = np.zeros((1,HAND_FEATURES,3))
 
             if avail_flag:
                 avail_frame +=1
