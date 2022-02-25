@@ -1,8 +1,7 @@
 import os
 import json
 import random
-import traceback
-from .vidaug import VidAug
+
 
 random.seed(random.random())
 
@@ -13,6 +12,16 @@ import pickle
 DATA_ROOT = './train_test'
 IS_RANDOM = True
 
+def to_json(dir = "./own_vid"):
+    train_json = list()
+    for dirpath, dirnames, filenames in os.walk(dir):
+        if dirpath == dir: continue
+
+        gloss = dirpath.split(os.sep)[-1]
+        filenames = [ os.path.abspath(os.path.join(dir,gloss,i)) for i in filenames if i.endswith('.mp4')] #origin vid
+        train_json.append({"gloss":gloss,"files":filenames})
+    
+    json.dump( train_json,open(f"./{dir}.json",'w'))
 
 def split_origin_vid():
     train_json, test_json = list(), list()
@@ -24,13 +33,13 @@ def split_origin_vid():
         filenames = [ os.path.abspath(os.path.join(DATA_ROOT,gloss,i)) for i in filenames if i.endswith('.mp4')] #origin vid
         
         p = int(len(filenames)*0.8)
-
+        random.shuffle(filenames)
         train, test = filenames[:p] , filenames[p:]
         train_json.append({"gloss":gloss, "files":train})
         test_json.append({"gloss":gloss, "files":test})
 
-    json.dump( train_json,open("./train_test/train.json",'w'))
-    json.dump(test_json,open( "./train_test/test.json",'w'))
+    json.dump( train_json,open("./train.json",'w'))
+    json.dump(test_json,open( ".//test.json",'w'))
 
 #split_origin_vid()
 
@@ -39,11 +48,7 @@ def load_data_json(data:str = "train") -> list:
     """
         data = train or test
     """
-    if data == "train":
-        return json.load(open("./train_test/train.json",'r'))
-    
-    elif data == "test":
-        return json.load(open("./train_test/test.json",'r'))
+    return json.load(open(f"./{data}.json",'r'))
 
 TEST_VID_PATH = load_data_json("train")[random.randint(0,5)]['files'][random.randint(0,5)]
 
@@ -77,18 +82,23 @@ def show_vid(vid_arr,vid_path=TEST_VID_PATH, vid_title="Image") -> None:
     for i in vid_arr:
         cv2.imshow(f"{vid_title}",cv2.cvtColor(i, cv2.COLOR_RGB2BGR))
         cv2.waitKey(10)
+    cv2.destroyAllWindows()
+
+
 
 if __name__ =="__main__":
-    try:
-        train_data_dict = load_data_json()
-        for i in train_data_dict:
-            print(i['gloss'])
-            test_p = i['files'][0]
-            print(test_p)
-            v = VidAug(test_p)
-            v.aug_vid_randomly()
+    to_json("./more_vid")
+    # split_origin_vid()
+    # try:
+    #     train_data_dict = load_data_json()
+    #     for i in train_data_dict:
+    #         print(i['gloss'])
+    #         test_p = i['files'][0]
+    #         print(test_p)
+    #         v = VidAug(test_p)
+    #         v.aug_vid_randomly()
 
-    except Exception as e:
-        print(e)
-        print(traceback.format_exc())    
-    pass
+    # except Exception as e:
+    #     print(e)
+    #     print(traceback.format_exc())    
+    # pass
