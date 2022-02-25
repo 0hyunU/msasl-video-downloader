@@ -1,5 +1,4 @@
-from gc import callbacks
-from turtle import left
+from sklearn.manifold import trustworthiness
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
@@ -11,7 +10,7 @@ from tensorflow.keras.layers import Dense, concatenate, BatchNormalization
 from sklearn.preprocessing import LabelBinarizer
 from tensorflow.keras.layers import LSTM
 
-SEQ_LEN = 50
+SEQ_LEN = 70
 
 def draw_model_fitting_result(result, save=False, savefig_name='model_fitting_result_save.png'):
     plt.plot(result.history['loss'],label='loss')
@@ -75,17 +74,38 @@ def cnn_model(x,y):
 
     return model
 
-def lstm_model_proto(x,y):
-    x = x.reshape((len(x),SEQ_LEN,-1))
+def lstm_model_proto(x,y, mode=0, seq_len=SEQ_LEN):
+    x = x.reshape((len(x),seq_len,-1))
 
     output_node = len(set(y))
     model = models.Sequential()
-    model.add(LSTM(64, return_sequences=True,input_shape=x.shape[1:]))
-    # model.add(LSTM(128, return_sequences=True))
-    model.add(LSTM(32, return_sequences=False))
-    model.add(layers.Dense(64, activation='relu'))
-    # model.add(layers.Dense(64, activation='relu'))
-    model.add(layers.Dense(output_node, activation='softmax'))
+    
+    if mode ==0:
+        model.add(LSTM(128, return_sequences=False,input_shape=x.shape[1:]))
+        model.add(layers.Dense(64, activation='relu'))
+        model.add(layers.Dense(output_node, activation='softmax'))
+    elif mode ==1:
+        model.add(LSTM(128, return_sequences=False,input_shape=x.shape[1:]))
+        model.add(layers.Dense(64, activation='relu'))
+        model.add(layers.Dense(32, activation='relu'))
+        model.add(layers.Dense(output_node, activation='softmax'))
+    elif mode ==2:
+        model.add(LSTM(128, return_sequences=True,input_shape=x.shape[1:]))
+        model.add(LSTM(64, return_sequences=False))
+        model.add(layers.Dense(output_node, activation='softmax'))
+    elif mode == 3:
+        model.add(LSTM(128, return_sequences=True,input_shape=x.shape[1:]))
+        model.add(LSTM(64, return_sequences=False))
+        model.add(layers.Dense(64, activation='relu'))
+        model.add(layers.Dense(32, activation='relu'))
+        model.add(layers.Dense(output_node, activation='softmax'))
+    elif mode == 4:
+        model.add(LSTM(64, return_sequences=False,input_shape=x.shape[1:]))
+        # model.add(LSTM(64, return_sequences=False))
+        model.add(layers.Dense(64, activation='relu'))
+        model.add(layers.Dense(32, activation='relu'))
+        model.add(layers.Dense(output_node, activation='softmax'))
+    
 
     opt = tf.keras.optimizers.Adam()
 
@@ -128,7 +148,7 @@ def train_cnn_model():
     transfomed_label = encoder.fit_transform(y)
     y = transfomed_label.argmax(1)
     (train_x, test_x, train_y, test_y) = train_test_split(
-                                                        x,y, test_size=0.2, random_state=42)
+                                                         x,y, test_size=0.2, random_state=42)
     #print(x.shape)
     model = cnn_model()
     #tf.config.list_physical_devices('GPU')
