@@ -11,6 +11,7 @@ import logging
 logging.basicConfig(filename='download_{}.log'.format(int(time.time())), filemode='w', level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 
+ANNOTE = True
 
 def request_video(url, referer=''):
     user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
@@ -142,8 +143,8 @@ def download_yt_videos(indexfile, saveto='raw_videos'):
     
 
 if __name__ == '__main__':
-    #   logging.info('Start downloading non-youtube videos.')
-   # download_nonyt_videos('WLASL_v0.3.json')
+    # logging.info('Start downloading non-youtube videos.')
+    # download_nonyt_videos('WLASL_v0.3.json')
 
     check_youtube_dl_version()
     logging.info('Start downloading youtube videos.')
