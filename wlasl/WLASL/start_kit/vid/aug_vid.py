@@ -14,6 +14,7 @@ IS_RANDOM = True
 
 def to_json(dir = "./own_vid"):
     train_json = list()
+    
     for dirpath, dirnames, filenames in os.walk(dir):
         if dirpath == dir: continue
 
@@ -50,7 +51,7 @@ def load_data_json(data:str = "train") -> list:
     """
     return json.load(open(f"./{data}.json",'r'))
 
-TEST_VID_PATH = load_data_json("train")[random.randint(0,5)]['files'][random.randint(0,5)]
+# TEST_VID_PATH = load_data_json("train")[random.randint(0,5)]['files'][random.randint(0,5)]
 
 def vid2arr(vid_path:str, save_obj:bool = False) -> np.array:
     cap = cv2.VideoCapture(vid_path)
@@ -72,7 +73,7 @@ def vid2arr(vid_path:str, save_obj:bool = False) -> np.array:
 
     return frame_list
 
-def show_vid(vid_arr,vid_path=TEST_VID_PATH, vid_title="Image") -> None:
+def show_vid(vid_arr,vid_path="", vid_title="Image") -> None:
     
     if vid_arr is None:
         vid_arr = vid2arr(vid_path)
@@ -88,17 +89,4 @@ def show_vid(vid_arr,vid_path=TEST_VID_PATH, vid_title="Image") -> None:
 
 if __name__ =="__main__":
     to_json("./more_vid")
-    # split_origin_vid()
-    # try:
-    #     train_data_dict = load_data_json()
-    #     for i in train_data_dict:
-    #         print(i['gloss'])
-    #         test_p = i['files'][0]
-    #         print(test_p)
-    #         v = VidAug(test_p)
-    #         v.aug_vid_randomly()
 
-    # except Exception as e:
-    #     print(e)
-    #     print(traceback.format_exc())    
-    # pass
