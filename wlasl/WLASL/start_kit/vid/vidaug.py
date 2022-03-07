@@ -60,7 +60,8 @@ class VidAug():
         return vid_arr
 
 
-    def crop_vidArr(self,vid_arr):
+    @staticmethod
+    def crop_vidArr(vid_arr):
         rate_x = random.uniform(0,0.1)
         rate_y = random.uniform(0,0.1)
         
@@ -85,11 +86,13 @@ class VidAug():
             print("origin shape", vid_arr.shape)
             print("cropped shape:",cropped_arr.shape)
         return cropped_arr   
-    
-    def flip_vidArr(self,vid_arr):
+
+    @staticmethod 
+    def flip_vidArr(vid_arr):
 
         return np.flip(vid_arr,2)
 
+    @staticmethod
     def rotate_vidArr(self,vid_arr):
     
         angle = random.uniform(-40,40)
@@ -101,7 +104,8 @@ class VidAug():
 
         return vid_arr_rot
     
-    def hshift_vidArr(self,vid_arr):
+    @staticmethod
+    def hshift_vidArr(vid_arr):
         rate = random.gauss(0,0.2)
         rows,cols = vid_arr.shape[1:3]
 
@@ -110,15 +114,16 @@ class VidAug():
 
         return shifted_arr
 
-    def vshift_vidArr(self,vid_arr):
+    @staticmethod
+    def vshift_vidArr(vid_arr):
         rate = random.uniform(-0.3,0.3)
         rows,cols = vid_arr.shape[1:3]
 
         M = np.float32([[1,0,1],[0,1,rows*rate]])
         return np.array([cv2.warpAffine(img, M, (cols, rows)) for img in vid_arr])
   
-
-    def stretch_vidArr(self,vid_arr):
+    @staticmethod
+    def stretch_vidArr(vid_arr):
         cols,rows = vid_arr.shape[1:3]
         rate_y = 1 + random.uniform(-0.5,0.5)
         rate_x = 1 + random.uniform(-0.5,0.5)
@@ -127,7 +132,7 @@ class VidAug():
         
         return np.array([cv2.resize(img,(int(rows*rate_y),int(cols*rate_x))) for img in vid_arr])
         
-
+    @staticmethod
     def get_randomly_aug_vid(self):
 
         aug_func_list = [self.crop_vidArr,self.stretch_vidArr,self.hshift_vidArr,
@@ -139,7 +144,6 @@ class VidAug():
         st_time = time.time()
         vid_arr = self.vid_arr
         for i in aug_func_list:
-            
             if random.randint(0,10)>=4:
                 vid_arr = i(vid_arr)
         self.aug_time = time.time() - st_time
