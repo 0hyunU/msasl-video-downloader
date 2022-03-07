@@ -11,8 +11,9 @@ from sklearn.preprocessing import MinMaxScaler
 import time
 import vid.vidaug as v
 import logging as log
+from vid import gen_key_arr
 
-log.basicConfig(filename=f"/Users/0hyun/Desktop/vid/all/{int(time.time())}.log", level=log.DEBUG)
+log.basicConfig(filename=os.path.join(os.getcwd(),f"processing_info_log/{int(time.time())}.log"), level=log.DEBUG)
 
 Iter_num = 9
 ANNOTE = False
@@ -159,82 +160,6 @@ def show_vid(vid_arr, vid_title="Image") -> None:
         cv2.waitKey(10)
     cv2.destroyAllWindows()
 
-def concat_keypoint_data(landmark: object, base:np.ndarray, hands_mean = 0) -> np.ndarray:
-        
-    if landmark:
-        tmp = np.array([[i.x,i.y,i.z] for i in landmark.landmark])
-        return np.vstack([base,np.expand_dims(tmp,0)])
-    else:
-        """
-        if landmark.landmark is None
-        when keypoint disappear for a while
-        interpolate(보간) data with previous keypoint
-        """
-        # a[:,468:,:][:,lh_indices,:].mean(1) - a[:,493:-21,:].mean(1)
-        # if there's no data interploate
-        # fill the data with pose's hand's data
-        if base[-1].sum() == 0:
-            tmp = np.zeros(base[-1].shape)
-            tmp[:,:] = hands_mean
-            return np.vstack([base,np.expand_dims(tmp,0)])
-
-        return np.vstack([base,np.expand_dims(base[-1],0)])
-
-def kpoint2arr(keypoint_res):
-        face = pose = lh = rh= np.array([])
-        avail_frame = 0 # start 1 base array stacked
-        avail_flag = False
-        for i in keypoint_res:
-            holistic_body_visible = ((i.left_hand_landmarks or i.right_hand_landmarks) 
-                                        and i.pose_landmarks and i.face_landmarks) is not None
-            
-            # start frame detected body keypoint
-            # And init array
-            if holistic_body_visible and not avail_flag: 
-                avail_flag = True
-                avail_frame += 1 # start 1 base array stacked
-                face = np.zeros((1,FACE_FEATUERS,3))
-                pose = np.zeros((1,POSE_FEATURES,3))
-                lh = rh = np.zeros((1,HAND_FEATURES,3))
-
-            if avail_flag:
-                avail_frame +=1
-                pose = concat_keypoint_data(i.pose_landmarks, pose)
-                
-                # data interpolation
-                lh_indices =[15,17,19,21]
-                lh_avr = pose[-1,lh_indices,:].mean()
-                rh_indices = [16,18,20,22]
-                rh_avr = pose[-1,rh_indices,:].mean()
-
-                face = concat_keypoint_data(i.face_landmarks, face)
-                lh = concat_keypoint_data(i.left_hand_landmarks, lh, lh_avr)
-                rh = concat_keypoint_data(i.right_hand_landmarks, rh, rh_avr)
-        
-        face = np.array(face)
-        pose = np.array(pose)
-        lh = np.array(lh)
-        rh = np.array(rh)
-
-        # keypoint array length should be same with available frame
-        try:
-            assert len(face) == len(pose) == len(lh) == len(rh) == avail_frame
-        except Exception as e:
-            print(e)
-            print(traceback.format_exc())
-            print("array len: ",len(face) ,len(pose) ,len(lh) ,len(rh) , avail_frame)
-
-        try:
-            # keypoint minmax scaling
-            keypoint_concat = np.concatenate((face,pose[:,:25,:],lh,rh),axis=1)
-            if VERBOSE: print("keypoint before scale:", keypoint_concat.max(), keypoint_concat.min())   
-
-        except Exception as e:
-            print(e)
-            print(traceback.format_exc())
-            return np.zeros((1,))
-        
-        return keypoint_concat
 
 def read_vid(vid_path = "../vid/all/all.mp4"):
     cap = cv2.VideoCapture(vid_path)
@@ -248,7 +173,7 @@ def read_vid(vid_path = "../vid/all/all.mp4"):
 
     return li
 
-def main():
+def aug_scale_effect():
     for k in range(10):
         global Iter_num
         Iter_num = k
@@ -318,8 +243,7 @@ def check_streching_effect():
     plot_2D_keypoint_every_move(b,'stretchvid_scale1')
 
 
-def check_zvalues_distribution():
-    vid_path = "/Users/0hyun/Desktop/vid/all/all_2.mp4"
+def check_zvalues_distribution(vid_path = "/Users/0hyun/Desktop/vid/all/all_2.mp4"):
     vid_arr = v.VidAug(vid_path).vid2arr()
     show_vid(vid_arr)
     keypoint_res, keypoint_res1 = gen_key_arr.KeyArrGen(vid_arr).get_keyarr()
@@ -331,9 +255,12 @@ if __name__ == "__main__":
     st_time = time.time()
 
 
-    check_streching_effect()
+    #check_streching_effect()
     
     #check_zvalues_distribution()
+    test_dir = "C:\\Users\\user\\Desktop\\dataset\\test\\deaf"
+    print(os.listdir(test_dir))
+
 
 
     log.info(f"{time.time() - st_time}")
