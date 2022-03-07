@@ -1,22 +1,17 @@
-import copy
-from msilib.schema import Verb
 import time
 import traceback
-from attr import dataclass
-from cv2 import trace
 import mediapipe as mp
 import numpy as np
 import cv2
 import dataclasses
-
-from .aug_vid import *
-
+import copy
+from aug_vid import *
 import random
 random.seed(random.random())
 
 DRAW_VID = False
 DRAW_KEYPOINT = False
-VERBOSE = False
+VERBOSE =False 
 FACE_FEATUERS = 468
 POSE_FEATURES = 33
 HAND_FEATURES = 21
@@ -33,11 +28,13 @@ class KeyArrGen():
     def minmaxscale_keypoint(self,keypoint):
         #todo x,y separate
         from sklearn.preprocessing import MinMaxScaler
+        
         mms = MinMaxScaler()
         res = copy.deepcopy(keypoint)
-        res[:,:,2] = res[:,:,2] * (-1)
+
         for i in range(res.shape[2]):
-            res[:,:,i] =mms.fit_transform(res[:,:,i].reshape((-1,1))).reshape(res.shape[:2])
+            res[:,:,i] =mms.fit_transform(keypoint[:,:,i].reshape((-1,1))).reshape(keypoint.shape[:2])
+
         return res
 
     def draw_landmark(self,image,mp_drawing, results):
@@ -51,10 +48,14 @@ class KeyArrGen():
             image, results.face_landmarks,landmark_drawing_spec=mp_drawing.DrawingSpec(circle_radius=1))
 
     # stack keypoint data consequently
-    def concat_keypoint_data(self,landmark: object, base:np.ndarray, hands_mean = 0) -> np.ndarray:
+    def concat_keypoint_data(self,landmark: object, base:np.ndarray, hands_mean = 0, hand=True) -> np.ndarray:
         
         if landmark:
-            tmp = np.array([[i.x,i.y, i.z] for i in landmark.landmark])
+            tmp = np.array([[i.x,i.y,i.z] for i in landmark.landmark])
+            if VERBOSE and np.any(hands_mean): print(f"distance: {np.sqrt(sum((tmp.mean(axis=0) - hands_mean) **2))}")
+            if VERBOSE and (len(tmp) == 33): 
+                print("elbow D:",np.sqrt(sum((tmp[13]-tmp[15])**2)))
+                print("hand D:",np.sqrt(sum((tmp[21]-tmp[15])**2)))
             return np.vstack([base,np.expand_dims(tmp,0)])
         else:
             """
@@ -65,12 +66,21 @@ class KeyArrGen():
             # a[:,468:,:][:,lh_indices,:].mean(1) - a[:,493:-21,:].mean(1)
             # if there's no data interploate
             # fill the data with pose's hand's data
-            if base[-1].sum() == 0:
+
+            # interpolation case: 
+            # when hands are not detected, fill with pose's hand data 
+            # when hands are too far from pose's hand's coordinate
+            if (np.any(hands_mean) and ~np.any(base[-1])) or \
+            (np.any(hands_mean) and (np.sqrt(sum((base[-1].mean(axis=0) - hands_mean) **2)) > 0.5)):
                 tmp = np.zeros(base[-1].shape)
                 tmp[:,:] = hands_mean
+                if VERBOSE and np.any(hands_mean): print(f"distance: {np.sqrt(sum((base[-1].mean(axis=0) - hands_mean) **2))}")
+                
                 if VERBOSE: print("filled with hand's avr")
                 return np.vstack([base,np.expand_dims(tmp,0)])
-
+            
+            if VERBOSE and np.any(hands_mean): print(f"distance: {np.sqrt(sum((base[-1].mean(axis=0) - hands_mean) **2))}")
+            
             return np.vstack([base,np.expand_dims(base[-1],0)])
 
     def keypoint_from_vid(self):
@@ -157,13 +167,19 @@ class KeyArrGen():
                 
                 # data interpolation
                 lh_indices =[15,17,19,21]
-                lh_avr = pose[-1,lh_indices,:].mean()
                 rh_indices = [16,18,20,22]
-                rh_avr = pose[-1,rh_indices,:].mean()
-
+                # for hands keypoint interpolation
+                # in case: hands not detected or 
+                # when too far two of each data which hands data and pose's hands data 
+                lh_avr = pose[-1,lh_indices,:].mean(axis=0) 
+                rh_avr = pose[-1,rh_indices,:].mean(axis=0)
+                
+                if avail_frame %2:
+                    i.face_landmarks = None
                 face = self.concat_keypoint_data(i.face_landmarks, face)
                 lh = self.concat_keypoint_data(i.left_hand_landmarks, lh, lh_avr)
                 rh = self.concat_keypoint_data(i.right_hand_landmarks, rh, rh_avr)
+                #print(lh[-1].mean(axis=0) == lh_avr, lh_avr, lh[-1].mean(axis=0), lh[-1].shape)
         
         face = np.array(face)
         pose = np.array(pose)
@@ -180,11 +196,11 @@ class KeyArrGen():
 
         try:
             # keypoint minmax scaling
-            keypoint_concat = np.concatenate((face,pose[:,:25,:],lh,rh),axis=1)
-            if VERBOSE: print("keypoint before scale:", keypoint_concat.max(), keypoint_concat.min())   
-            keypoint_concat_ = self.minmaxscale_keypoint(keypoint_concat)
-            if VERBOSE: print("keypoint after scale", keypoint_concat_.max(),keypoint_concat_.min())
+            keypoint_concat = np.concatenate((face,pose[:,:23,:],lh,rh),axis=1)
+            if VERBOSE: print("keypoint before scale:",keypoint_concat.shape,keypoint_concat[:,:,0].min(), keypoint_concat[:,:,0].max(),keypoint_concat[:,:,1].min(), keypoint_concat[:,:,1].max())  
+            keypoint_concat = self.minmaxscale_keypoint(keypoint_concat)
         except Exception as e:
+            print("error occur, processed array len: ",len(face), avail_frame)
             print(e)
             print(traceback.format_exc())
             return np.zeros((1,))
@@ -192,13 +208,14 @@ class KeyArrGen():
         if DRAW_KEYPOINT: 
             from .draw_plot import plot_2D_keypoint_every_move
             plot_2D_keypoint_every_move(keypoint_concat)
-            plot_2D_keypoint_every_move(keypoint_concat_)
+
 
         st_time = time.time()
-        res = self.modi_seq_length_rand(keypoint_concat_)
+        if VERBOSE : print("normalize before and after is same?:",np.allclose(keypoint_concat,keypoint_concat_))
+        res = self.modi_seq_length_rand(keypoint_concat)
         if VERBOSE: print("numpy injection time: ",time.time()- st_time)
 
         if DRAW_KEYPOINT: 
             (res)
-    
+
         return res
