@@ -5,7 +5,7 @@ import numpy as np
 import cv2
 import dataclasses
 import copy
-from aug_vid import *
+from .aug_vid import *
 import random
 random.seed(random.random())
 
@@ -54,7 +54,7 @@ class KeyArrGen():
             tmp = np.array([[i.x,i.y,i.z] for i in landmark.landmark])
             if VERBOSE and np.any(hands_mean): print(f"distance: {np.sqrt(sum((tmp.mean(axis=0) - hands_mean) **2))}")
             if VERBOSE and (len(tmp) == 33): 
-                print("elbow D:",np.sqrt(sum((tmp[13]-tmp[15])**2)))
+                print("elbow Distance:",np.sqrt(sum((tmp[13]-tmp[15])**2)))
                 print("hand D:",np.sqrt(sum((tmp[21]-tmp[15])**2)))
             return np.vstack([base,np.expand_dims(tmp,0)])
         else:
